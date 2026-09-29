@@ -30,7 +30,7 @@ Tyler must submit the verified public repository URL, live GitHub Pages URL, and
 
 After Round 1, record feedback and keep improving the same repository before October 8. Mapping a custom domain is optional and has not been performed.
 
-## Public deployment verification
+## Initial public deployment verification
 
 - Repository: https://github.com/TylerPaull/tyler-portfolio — public, default branch `main`.
 - Live site: https://tylerpaull.github.io/tyler-portfolio/ — HTTPS enforced.
@@ -43,3 +43,11 @@ After Round 1, record feedback and keep improving the same repository before Oct
 - Contact uses Tyler’s supplied `tlipman@tulane.edu` mailto address. No email was sent.
 
 The résumé, video recording, Canvas submission, and optional custom-domain mapping remain outside the completed publication.
+
+## Supplied media update — September 28
+
+- Replaced the homepage and About portrait with Tyler’s supplied transparent headshot. Verified the full head remains visible at phone and desktop sizes; the headshot update was confirmed on the public site.
+- Added Tyler’s CNC cut plan and exploded assembly drawing to BARE, with responsive display images and full-resolution local downloads.
+- Added the supplied 11-second, 1280×720 rotation animation without transcoding. It has no audio track, no autoplay, native playback controls, a video-derived poster, and a written visual description. Local playback and the mobile player layout were verified.
+- Removed the unverified exact dowel count from BARE’s introductory copy while retaining the supported mechanism description.
+- Static validation covers the new source, poster, image variants, and full-resolution drawing links.

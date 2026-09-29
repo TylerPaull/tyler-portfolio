@@ -24,7 +24,7 @@ class Page(HTMLParser):
             self.headings += 1
         if tag == 'meta' and attrs.get('name') == 'description':
             self.has_description = bool(attrs.get('content'))
-        for field in ('href', 'src'):
+        for field in ('href', 'src', 'poster'):
             if attrs.get(field):
                 self.links.append(attrs[field])
         for value in attrs.get('srcset', '').split(','):

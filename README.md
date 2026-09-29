@@ -12,7 +12,7 @@ Published and verified September 28, 2026 (America/Chicago).
 
 - Selected-work homepage with BARE, Ostra, Butterfly Streetcar Pavilion, and Balance.
 - Four individual case studies pairing project descriptions with original images and drawings.
-- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible.
+- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation, CNC cut plan, and exploded assembly drawing add construction detail; both drawings open at full resolution.
 - About page with a real portrait, verified background, tools, and email contact.
 - Mobile layouts, meaningful headings, skip navigation, visible keyboard focus, reduced-motion support, and responsive WebP images.
 

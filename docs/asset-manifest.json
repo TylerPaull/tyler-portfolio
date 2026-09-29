@@ -497,5 +497,60 @@
         "height": 1403
       }
     ]
+  },
+  {
+    "source": "Supplied directly by Tyler on September 28, 2026",
+    "original": "SP26_DESG3010_CutPlan2_Lipman_Tyler.jpg",
+    "full_resolution": "bare-cut-plan-full.jpg",
+    "variants": [
+      {
+        "file": "bare-cut-plan-640.webp",
+        "width": 640,
+        "height": 582
+      },
+      {
+        "file": "bare-cut-plan-1280.webp",
+        "width": 1280,
+        "height": 1164
+      },
+      {
+        "file": "bare-cut-plan-2048.webp",
+        "width": 2048,
+        "height": 1862
+      }
+    ]
+  },
+  {
+    "source": "Supplied directly by Tyler on September 28, 2026",
+    "original": "SP26_DESG3010_EXPLODED_Lipman_TYLER.pdf.jpg",
+    "full_resolution": "bare-exploded-full.jpg",
+    "variants": [
+      {
+        "file": "bare-exploded-640.webp",
+        "width": 640,
+        "height": 455
+      },
+      {
+        "file": "bare-exploded-1280.webp",
+        "width": 1280,
+        "height": 910
+      },
+      {
+        "file": "bare-exploded-2048.webp",
+        "width": 2048,
+        "height": 1456
+      }
+    ]
+  },
+  {
+    "source": "Supplied directly by Tyler on September 28, 2026",
+    "original": "Back Piece Rotation.mp4",
+    "file": "bare-rotation.mp4",
+    "duration_seconds": 11,
+    "width": 1280,
+    "height": 720,
+    "audio": false,
+    "poster": "bare-rotation-poster.webp",
+    "poster_source": "Still extracted from the supplied video using macOS Quick Look"
   }
 ]
