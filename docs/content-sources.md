@@ -3,7 +3,7 @@
 Reviewed September 28, 2026. Copy and project imagery are sourced from Tyler Paul Lipman's existing portfolio, with his authorization to reuse it for this assignment.
 
 - https://www.tylerpauldesg.com/ — name, Tulane affiliation, design focus, internship availability.
-- https://www.tylerpauldesg.com/about — portrait, design approach, software skills.
+- https://www.tylerpauldesg.com/about — design approach and software skills. The current portrait was supplied directly by Tyler on September 28, 2026.
 - https://www.tylerpauldesg.com/work/portmanteau/ — BARE; 2026, two months, plywood, friction-fit comb joints, hinge/locking dowels, bench/chair configurations.
 - https://www.tylerpauldesg.com/work/ostra-lamp/ — Ostra; 2025, four months, Studio I, natural systems, cowfish, iterative models, layered geometry, final object.
 - https://www.tylerpauldesg.com/work/streetcar/ — Butterfly Streetcar Pavilion; 2025, five weeks, Studio II, four-stage spatial sequence. Presented as a concept; no construction claim.

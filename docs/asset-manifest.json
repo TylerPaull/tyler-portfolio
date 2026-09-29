@@ -1,22 +1,17 @@
 [
   {
-    "source": "https://framerusercontent.com/images/u37JJvvlWIIS02PbviJ6qDoUIA.png?width=2954&height=1514",
-    "original": "about-0.png",
+    "source": "Replacement headshot supplied directly by Tyler on September 28, 2026",
+    "original": "Codex Image Sep 28, 2026, 08_50_16 PM.png",
     "variants": [
       {
-        "file": "about-0-640.webp",
+        "file": "tyler-headshot-640.webp",
         "width": 640,
-        "height": 328
+        "height": 640
       },
       {
-        "file": "about-0-1280.webp",
-        "width": 1280,
-        "height": 656
-      },
-      {
-        "file": "about-0-2048.webp",
-        "width": 2048,
-        "height": 1050
+        "file": "tyler-headshot-1254.webp",
+        "width": 1254,
+        "height": 1254
       }
     ]
   },

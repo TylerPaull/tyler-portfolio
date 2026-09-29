@@ -60,7 +60,7 @@ HTML supplies content and structure. CSS controls the editorial layout and adapt
 
 Project descriptions and imagery were gathered from [Tyler's existing portfolio](https://www.tylerpauldesg.com/), reviewed, and reorganized into concise case studies. The visual design was developed separately from the original Framer template. See [content sources](docs/content-sources.md) and [the image manifest](docs/asset-manifest.json).
 
-Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. The project work and portrait are sourced from Tyler's existing portfolio; no generated substitutes were used. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
+Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. The project work is sourced from Tyler's existing portfolio. The current headshot was supplied directly by Tyler; its transparency is preserved. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
 
 Portfolio artwork and photographs remain the property of their respective owners. This repository does not grant a blanket license to reuse them.
 
