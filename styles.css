@@ -10,3 +10,5 @@
 
 .case-section > *{min-width:0}
 .motion-study{margin:36px 0 0;min-width:0;max-width:100%}.motion-study video{display:block;width:100%;max-width:100%;height:auto;aspect-ratio:16/9;background:#f1f0eb}.motion-study video:focus-visible{outline:3px solid var(--accent);outline-offset:6px}.motion-study figcaption{font-size:14px;color:var(--muted);line-height:1.5;margin-top:14px}.gallery figcaption .drawing-download{display:inline;background:none;text-decoration:underline;white-space:normal}
+
+.nucite-hero img{object-fit:contain;background:var(--paper)}.material-samples img{aspect-ratio:1;object-fit:cover}.project-card.wide{grid-column:1/-1;padding-top:0}.project-card.wide .project-media{aspect-ratio:2.5}@media(max-width:560px){.project-card.wide .project-media{aspect-ratio:1.8}}
