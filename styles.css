@@ -6,3 +6,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{transition:none!important;animation:none!important}}
 @media print{.site-header nav,.footer,.toggle,.case-next{display:none}body{background:white;color:black}.wrap{padding-inline:0}.case-section{break-inside:avoid}.intro h1{font-size:65px}}
 [hidden]{display:none!important}
+.footer a:focus-visible{outline-color:#fafaf8}
