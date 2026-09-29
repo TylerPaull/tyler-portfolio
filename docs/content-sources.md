@@ -20,3 +20,5 @@ All portfolio artwork and photographs remain their respective owners' property; 
 On September 28, 2026, Tyler supplied a replacement headshot, the BARE CNC cut plan, an exploded assembly drawing, and the 11-second Back Piece Rotation MP4. The drawings are published with full-resolution originals and responsive display variants. The video is served unchanged with native playback controls, an extracted still, and a written visual description; it has no audio track.
 
 The new exploded drawing depicts more than two rod shapes, while the original website describes two dowels. Updated copy uses “dowel system” without an exact count; no unverified total is asserted.
+
+Tyler subsequently selected `NEWAI.png` as the final supplied headshot on September 28, 2026. It replaces the earlier supplied portrait on Home and About. Responsive WebP copies preserve the supplied transparency.

@@ -51,3 +51,6 @@ The résumé, video recording, Canvas submission, and optional custom-domain map
 - Added the supplied 11-second, 1280×720 rotation animation without transcoding. It has no audio track, no autoplay, native playback controls, a video-derived poster, and a written visual description. Local playback and the mobile player layout were verified.
 - Removed the unverified exact dowel count from BARE’s introductory copy while retaining the supported mechanism description.
 - Static validation covers the new source, poster, image variants, and full-resolution drawing links.
+
+- Replaced the earlier headshot with Tyler’s final `NEWAI.png` selection; checked the transparent portrait at 390px and 1440px. Content-specific asset names refresh cached portraits.
+- Added zero minimum widths to case-study grid children and constrained the video width; versioned the shared stylesheet to refresh cached mobile styles. Verified the 350px-wide player fits a 390px viewport without horizontal overflow.

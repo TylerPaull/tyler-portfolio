@@ -1,15 +1,15 @@
 [
   {
     "source": "Replacement headshot supplied directly by Tyler on September 28, 2026",
-    "original": "Codex Image Sep 28, 2026, 08_50_16 PM.png",
+    "original": "NEWAI.png",
     "variants": [
       {
-        "file": "tyler-headshot-640.webp",
+        "file": "tyler-headshot-86b554be-640.webp",
         "width": 640,
         "height": 640
       },
       {
-        "file": "tyler-headshot-1254.webp",
+        "file": "tyler-headshot-86b554be-1254.webp",
         "width": 1254,
         "height": 1254
       }
