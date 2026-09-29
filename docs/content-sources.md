@@ -11,6 +11,6 @@ Reviewed September 28, 2026. Copy and project imagery are sourced from Tyler Pau
 
 Source text is condensed and reorganized for the new site. Existing template alt text is replaced with accurate image descriptions. The source footer's unrelated easyfast.design link is omitted.
 
-Do not infer exact personal contributions, team credits, degree, graduation date, testing results, material species, or dimensions beyond the source. BARE 001 and the Shellboard/ReSourced project are not verified on the public site. A current résumé and public email are still needed.
+Do not infer exact personal contributions, team credits, degree, graduation date, testing results, material species, or dimensions beyond the source. BARE 001 and the Shellboard/ReSourced project are not verified on the public site. A current résumé is still needed. Tyler explicitly provided the public contact email tlipman@tulane.edu and GitHub username TylerPaull in this conversation.
 
 All portfolio artwork and photographs remain their respective owners' property; public source availability is not a blanket license for reuse.

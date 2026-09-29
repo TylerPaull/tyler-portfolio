@@ -1,0 +1,590 @@
+[
+  {
+    "source": "https://framerusercontent.com/images/u37JJvvlWIIS02PbviJ6qDoUIA.png?width=2954&height=1514",
+    "original": "about-0.png",
+    "variants": [
+      {
+        "file": "about-0-640.webp",
+        "width": 640,
+        "height": 328
+      },
+      {
+        "file": "about-0-1280.webp",
+        "width": 1280,
+        "height": 656
+      },
+      {
+        "file": "about-0-2048.webp",
+        "width": 2048,
+        "height": 1050
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/EDRDBiFe0K7bV1WOmmuBbAo7UU.png?width=1536&height=1024",
+    "original": "portmanteau-0.png",
+    "variants": [
+      {
+        "file": "portmanteau-0-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "file": "portmanteau-0-1280.webp",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "file": "portmanteau-0-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/b6jLDq6dHNm1sehMtXmGwfhdD0.png",
+    "original": "portmanteau-1.png",
+    "variants": [
+      {
+        "file": "portmanteau-1-640.webp",
+        "width": 640,
+        "height": 426
+      },
+      {
+        "file": "portmanteau-1-1280.webp",
+        "width": 1280,
+        "height": 852
+      },
+      {
+        "file": "portmanteau-1-1537.webp",
+        "width": 1537,
+        "height": 1023
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/yjsrOkF90ibf42XPFh91mPMB4.jpg?width=4400&height=3400",
+    "original": "portmanteau-2.jpg",
+    "variants": [
+      {
+        "file": "portmanteau-2-640.webp",
+        "width": 640,
+        "height": 495
+      },
+      {
+        "file": "portmanteau-2-1280.webp",
+        "width": 1280,
+        "height": 989
+      },
+      {
+        "file": "portmanteau-2-2048.webp",
+        "width": 2048,
+        "height": 1583
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/tNd3Ni5LqqOrR3Alk5phQ8868c.jpg?width=4400&height=3400",
+    "original": "portmanteau-3.jpg",
+    "variants": [
+      {
+        "file": "portmanteau-3-640.webp",
+        "width": 640,
+        "height": 495
+      },
+      {
+        "file": "portmanteau-3-1280.webp",
+        "width": 1280,
+        "height": 989
+      },
+      {
+        "file": "portmanteau-3-2048.webp",
+        "width": 2048,
+        "height": 1583
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/71cAEBmu0qBSSGvpXNmm0HmzxE.jpg?width=4400&height=3400",
+    "original": "portmanteau-4.jpg",
+    "variants": [
+      {
+        "file": "portmanteau-4-640.webp",
+        "width": 640,
+        "height": 495
+      },
+      {
+        "file": "portmanteau-4-1280.webp",
+        "width": 1280,
+        "height": 989
+      },
+      {
+        "file": "portmanteau-4-2048.webp",
+        "width": 2048,
+        "height": 1583
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/YU1FRMdJCP03wtTmFDTWJiNqaw.jpg?width=4400&height=3400",
+    "original": "portmanteau-5.jpg",
+    "variants": [
+      {
+        "file": "portmanteau-5-640.webp",
+        "width": 640,
+        "height": 495
+      },
+      {
+        "file": "portmanteau-5-1280.webp",
+        "width": 1280,
+        "height": 989
+      },
+      {
+        "file": "portmanteau-5-2048.webp",
+        "width": 2048,
+        "height": 1583
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/23ZK1CX8BMzQbgPLM5Qs8I6MmE.jpg?width=6078&height=3588",
+    "original": "ostra-0.jpg",
+    "variants": [
+      {
+        "file": "ostra-0-640.webp",
+        "width": 640,
+        "height": 378
+      },
+      {
+        "file": "ostra-0-1280.webp",
+        "width": 1280,
+        "height": 756
+      },
+      {
+        "file": "ostra-0-2048.webp",
+        "width": 2048,
+        "height": 1209
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/GzimNlRjMPCBfLjtgHgrSNCt4.jpg",
+    "original": "ostra-1.jpg",
+    "variants": [
+      {
+        "file": "ostra-1-640.webp",
+        "width": 640,
+        "height": 414
+      },
+      {
+        "file": "ostra-1-1280.webp",
+        "width": 1280,
+        "height": 828
+      },
+      {
+        "file": "ostra-1-2048.webp",
+        "width": 2048,
+        "height": 1325
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/9LqBTy65hwSOI5j3cqemyIlDs.jpg?width=10800&height=7500",
+    "original": "ostra-2.jpg",
+    "variants": [
+      {
+        "file": "ostra-2-640.webp",
+        "width": 640,
+        "height": 444
+      },
+      {
+        "file": "ostra-2-1280.webp",
+        "width": 1280,
+        "height": 889
+      },
+      {
+        "file": "ostra-2-2048.webp",
+        "width": 2048,
+        "height": 1422
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/81gds6iwzbmJac48E8bhZQFuxk.jpg?width=6800&height=4400",
+    "original": "ostra-3.jpg",
+    "variants": [
+      {
+        "file": "ostra-3-640.webp",
+        "width": 640,
+        "height": 414
+      },
+      {
+        "file": "ostra-3-1280.webp",
+        "width": 1280,
+        "height": 828
+      },
+      {
+        "file": "ostra-3-2048.webp",
+        "width": 2048,
+        "height": 1325
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/BnYP2mHhHHqcenndnnmfes7Z4.jpg?width=12000&height=8000",
+    "original": "ostra-4.jpg",
+    "variants": [
+      {
+        "file": "ostra-4-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "file": "ostra-4-1280.webp",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "file": "ostra-4-2048.webp",
+        "width": 2048,
+        "height": 1365
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/f0ugNssnml2ec2yqLCgQJ6Vktnc.jpeg?width=3400&height=2200",
+    "original": "ostra-5.jpeg",
+    "variants": [
+      {
+        "file": "ostra-5-640.webp",
+        "width": 640,
+        "height": 414
+      },
+      {
+        "file": "ostra-5-1280.webp",
+        "width": 1280,
+        "height": 828
+      },
+      {
+        "file": "ostra-5-2048.webp",
+        "width": 2048,
+        "height": 1325
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/zGRkXIWwlIcXJTH9nLiHyQ690.jpeg?width=3400&height=2200",
+    "original": "ostra-6.jpeg",
+    "variants": [
+      {
+        "file": "ostra-6-640.webp",
+        "width": 640,
+        "height": 414
+      },
+      {
+        "file": "ostra-6-1280.webp",
+        "width": 1280,
+        "height": 828
+      },
+      {
+        "file": "ostra-6-2048.webp",
+        "width": 2048,
+        "height": 1325
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/8Y4KgBuhEpIOtXfmR6Godtosk.jpg?width=6800&height=4400",
+    "original": "ostra-7.jpg",
+    "variants": [
+      {
+        "file": "ostra-7-640.webp",
+        "width": 640,
+        "height": 414
+      },
+      {
+        "file": "ostra-7-1280.webp",
+        "width": 1280,
+        "height": 828
+      },
+      {
+        "file": "ostra-7-2048.webp",
+        "width": 2048,
+        "height": 1325
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/xnfhbijD0sjUjBiETsz48JS5KSo.jpg?width=2058&height=1410",
+    "original": "pavilion-0.jpg",
+    "variants": [
+      {
+        "file": "pavilion-0-640.webp",
+        "width": 640,
+        "height": 438
+      },
+      {
+        "file": "pavilion-0-1280.webp",
+        "width": 1280,
+        "height": 877
+      },
+      {
+        "file": "pavilion-0-2048.webp",
+        "width": 2048,
+        "height": 1403
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/ccUpenisHfLbWqb46m7S63umU.jpg",
+    "original": "pavilion-1.jpg",
+    "variants": [
+      {
+        "file": "pavilion-1-640.webp",
+        "width": 640,
+        "height": 438
+      },
+      {
+        "file": "pavilion-1-1280.webp",
+        "width": 1280,
+        "height": 877
+      },
+      {
+        "file": "pavilion-1-2048.webp",
+        "width": 2048,
+        "height": 1403
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/qDFv7QUimTAFBruGDhPHjtnk.jpg?width=9600&height=14400",
+    "original": "pavilion-2.jpg",
+    "variants": [
+      {
+        "file": "pavilion-2-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "file": "pavilion-2-1280.webp",
+        "width": 1280,
+        "height": 1920
+      },
+      {
+        "file": "pavilion-2-1365.webp",
+        "width": 1365,
+        "height": 2048
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/3LH55jCkSP4NaHgeJbhYkwfapYM.jpg?width=9600&height=14400",
+    "original": "pavilion-3.jpg",
+    "variants": [
+      {
+        "file": "pavilion-3-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "file": "pavilion-3-1280.webp",
+        "width": 1280,
+        "height": 1920
+      },
+      {
+        "file": "pavilion-3-1365.webp",
+        "width": 1365,
+        "height": 2048
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/9c4hiFDxj51ZIKOuv5hh68cAlY.jpg?width=9600&height=14400",
+    "original": "pavilion-4.jpg",
+    "variants": [
+      {
+        "file": "pavilion-4-640.webp",
+        "width": 640,
+        "height": 960
+      },
+      {
+        "file": "pavilion-4-1280.webp",
+        "width": 1280,
+        "height": 1920
+      },
+      {
+        "file": "pavilion-4-1365.webp",
+        "width": 1365,
+        "height": 2048
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/AHQ5QevxNCt2KqEloKaxNIfmyw.png?width=11570&height=5082",
+    "original": "interior-0.png",
+    "variants": [
+      {
+        "file": "interior-0-640.webp",
+        "width": 640,
+        "height": 281
+      },
+      {
+        "file": "interior-0-1280.webp",
+        "width": 1280,
+        "height": 562
+      },
+      {
+        "file": "interior-0-2048.webp",
+        "width": 2048,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/j934oOp4pd62gaM3IS1aTrY5s.jpg",
+    "original": "interior-1.jpg",
+    "variants": [
+      {
+        "file": "interior-1-640.webp",
+        "width": 640,
+        "height": 457
+      },
+      {
+        "file": "interior-1-1280.webp",
+        "width": 1280,
+        "height": 914
+      },
+      {
+        "file": "interior-1-2048.webp",
+        "width": 2048,
+        "height": 1463
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/H2uEpS6XPjb6OhIa0u1JvTzQU.png?width=11570&height=5082",
+    "original": "interior-2.png",
+    "variants": [
+      {
+        "file": "interior-2-640.webp",
+        "width": 640,
+        "height": 281
+      },
+      {
+        "file": "interior-2-1280.webp",
+        "width": 1280,
+        "height": 562
+      },
+      {
+        "file": "interior-2-2048.webp",
+        "width": 2048,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/dhLLLyihwzN777B5F0nB5qkwVs.png?width=11570&height=5082",
+    "original": "interior-3.png",
+    "variants": [
+      {
+        "file": "interior-3-640.webp",
+        "width": 640,
+        "height": 281
+      },
+      {
+        "file": "interior-3-1280.webp",
+        "width": 1280,
+        "height": 562
+      },
+      {
+        "file": "interior-3-2048.webp",
+        "width": 2048,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/gz1FZ0NCGfWUVV2mckjXRk1EwQ.png?width=1449&height=1375",
+    "original": "interior-4.png",
+    "variants": [
+      {
+        "file": "interior-4-640.webp",
+        "width": 640,
+        "height": 607
+      },
+      {
+        "file": "interior-4-1280.webp",
+        "width": 1280,
+        "height": 1215
+      },
+      {
+        "file": "interior-4-1449.webp",
+        "width": 1449,
+        "height": 1375
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/JF7si29lU7fFYS2k8cq6MhaqFJ4.png?width=2191&height=1440",
+    "original": "interior-5.png",
+    "variants": [
+      {
+        "file": "interior-5-640.webp",
+        "width": 640,
+        "height": 421
+      },
+      {
+        "file": "interior-5-1280.webp",
+        "width": 1280,
+        "height": 841
+      },
+      {
+        "file": "interior-5-2048.webp",
+        "width": 2048,
+        "height": 1346
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/fo8aUDwQjJkE2OigO1Xfs2VhctY.png?width=2182&height=1441",
+    "original": "interior-6.png",
+    "variants": [
+      {
+        "file": "interior-6-640.webp",
+        "width": 640,
+        "height": 423
+      },
+      {
+        "file": "interior-6-1280.webp",
+        "width": 1280,
+        "height": 846
+      },
+      {
+        "file": "interior-6-2048.webp",
+        "width": 2048,
+        "height": 1353
+      }
+    ]
+  },
+  {
+    "source": "https://framerusercontent.com/images/sZeHx7kdjEXnpOmFoACMAhHjPr0.png?width=2058&height=1410",
+    "original": "interior-7.png",
+    "variants": [
+      {
+        "file": "interior-7-640.webp",
+        "width": 640,
+        "height": 438
+      },
+      {
+        "file": "interior-7-1280.webp",
+        "width": 1280,
+        "height": 877
+      },
+      {
+        "file": "interior-7-2048.webp",
+        "width": 2048,
+        "height": 1403
+      }
+    ]
+  }
+]
