@@ -552,5 +552,254 @@
     "audio": false,
     "poster": "bare-rotation-poster.webp",
     "poster_source": "Still extracted from the supplied video using macOS Quick Look"
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 18,
+    "embedded_image": "booklet-p18-i00-Im0.jp2",
+    "variants": [
+      {
+        "file": "nucite-object-640.webp",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "file": "nucite-object-1280.webp",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "file": "nucite-object-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 16,
+    "embedded_image": "booklet-p16-i02-Im2.png",
+    "variants": [
+      {
+        "file": "nucite-surface-640.webp",
+        "width": 640,
+        "height": 989
+      },
+      {
+        "file": "nucite-surface-990.webp",
+        "width": 990,
+        "height": 1530
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 5,
+    "embedded_image": "booklet-p05-i00-Im0.jp2",
+    "variants": [
+      {
+        "file": "nucite-shells-640.webp",
+        "width": 640,
+        "height": 880
+      },
+      {
+        "file": "nucite-shells-1055.webp",
+        "width": 1055,
+        "height": 1450
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 8,
+    "embedded_image": "booklet-p08-i00-Im0.jpg",
+    "variants": [
+      {
+        "file": "nucite-fine-640.webp",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "file": "nucite-fine-1280.webp",
+        "width": 1280,
+        "height": 1280
+      },
+      {
+        "file": "nucite-fine-1309.webp",
+        "width": 1309,
+        "height": 1309
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 9,
+    "embedded_image": "booklet-p09-i00-Im0.jpg",
+    "variants": [
+      {
+        "file": "nucite-medium-640.webp",
+        "width": 640,
+        "height": 644
+      },
+      {
+        "file": "nucite-medium-1280.webp",
+        "width": 1280,
+        "height": 1288
+      },
+      {
+        "file": "nucite-medium-1826.webp",
+        "width": 1826,
+        "height": 1838
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 10,
+    "embedded_image": "booklet-p10-i00-Im0.jpg",
+    "variants": [
+      {
+        "file": "nucite-coarse-640.webp",
+        "width": 640,
+        "height": 636
+      },
+      {
+        "file": "nucite-coarse-1178.webp",
+        "width": 1178,
+        "height": 1170
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 11,
+    "embedded_image": "booklet-p11-i00-Im0.jpg",
+    "variants": [
+      {
+        "file": "nucite-mixed-640.webp",
+        "width": 640,
+        "height": 629
+      },
+      {
+        "file": "nucite-mixed-1254.webp",
+        "width": 1254,
+        "height": 1232
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 13,
+    "embedded_image": "booklet-p13-i00-Im0.jpg",
+    "variants": [
+      {
+        "file": "nucite-mixing-640.webp",
+        "width": 640,
+        "height": 765
+      },
+      {
+        "file": "nucite-mixing-670.webp",
+        "width": 670,
+        "height": 801
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 13,
+    "embedded_image": "booklet-p13-i01-Im1.jpg",
+    "variants": [
+      {
+        "file": "nucite-casting-640.webp",
+        "width": 640,
+        "height": 759
+      },
+      {
+        "file": "nucite-casting-670.webp",
+        "width": 670,
+        "height": 795
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 12,
+    "embedded_image": "booklet-p12-i00-Im0.jp2",
+    "variants": [
+      {
+        "file": "nucite-dish-640.webp",
+        "width": 640,
+        "height": 595
+      },
+      {
+        "file": "nucite-dish-836.webp",
+        "width": 836,
+        "height": 777
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 12,
+    "embedded_image": "booklet-p12-i01-Im1.jp2",
+    "variants": [
+      {
+        "file": "nucite-cup-640.webp",
+        "width": 640,
+        "height": 630
+      },
+      {
+        "file": "nucite-cup-1230.webp",
+        "width": 1230,
+        "height": 1211
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 14,
+    "embedded_image": "booklet-p14-i00-Im0.jp2",
+    "variants": [
+      {
+        "file": "nucite-repair-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "file": "nucite-repair-1086.webp",
+        "width": 1086,
+        "height": 1448
+      }
+    ]
+  },
+  {
+    "source": "Studio III booklet supplied directly by Tyler",
+    "original": "FA 26_DESG4005_OSMBooklet_Lipman_Tyler_corrected.pdf",
+    "pdf_page": 17,
+    "embedded_image": "booklet-p17-i00-Im0.jp2",
+    "variants": [
+      {
+        "file": "nucite-formwork-640.webp",
+        "width": 640,
+        "height": 651
+      },
+      {
+        "file": "nucite-formwork-1244.webp",
+        "width": 1244,
+        "height": 1265
+      }
+    ]
   }
 ]

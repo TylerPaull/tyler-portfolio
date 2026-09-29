@@ -5,7 +5,7 @@ Round 1: September 29, 2026. Final review: October 8, 2026, using the same repos
 | Category | Points | Current evidence | Remaining |
 | --- | ---: | --- | --- |
 | Live and published | 25 | Public repository and HTTPS GitHub Pages site live; all 81 published files return HTTP 200; direct pages work on desktop/mobile. | Tyler’s final review and Canvas submission. |
-| Portfolio quality | 50 | Four source-grounded case studies, verified background, process images, real contact email. | Current résumé; stronger explicit contribution/credits and Tyler's reflections when available. |
+| Portfolio quality | 50 | Five source-grounded case studies, verified background, process images, real contact email. | Current résumé; stronger explicit contribution/credits and Tyler's reflections when available. |
 | Design and presentation | 30 | Editorial design, real portrait, original project images, no placeholders. | Tyler's final content and visual review. |
 | Web best practices | 25 | Semantic HTML; skip link; headings; image alternatives and dimensions; responsive images; focus styles; reduced motion. | No formal screen-reader audit performed; browser zoom testing beyond responsive-width checks remains unverified. |
 | GitHub workflow | 20 | Public repository, meaningful pushed commits, README, source/asset provenance, validation and publication scripts. | Submit the repository URL to Canvas. |
@@ -54,3 +54,10 @@ The résumé, video recording, Canvas submission, and optional custom-domain map
 
 - Replaced the earlier headshot with Tyler’s final `NEWAI.png` selection; checked the transparent portrait at 390px and 1440px. Content-specific asset names refresh cached portraits.
 - Added zero minimum widths to case-study grid children and constrained the video width; versioned the shared stylesheet to refresh cached mobile styles. Verified the 350px-wide player fits a 390px viewport without horizontal overflow.
+
+## Nucite case study update
+
+- Added the supplied Studio III material study under its latest documented name, Nucite, as the third homepage project. Updated next-project links and numbering; Balance closes the five-project grid with a wider image.
+- Selected 13 original image assets from the corrected OSM booklet and generated 29 responsive WebP variants with descriptive alternatives and full-image links.
+- Verified sample quantities and narrative against the source. Copy describes a material exploration and tray application study, without unsupported performance or food-contact claims.
+- Local validation passes for eight HTML pages. Nucite and the homepage were checked at 390px and 1440px without horizontal overflow. The Nucite homepage link and a full-image link worked; no browser warning or error logs were reported.

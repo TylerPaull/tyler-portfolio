@@ -1,6 +1,6 @@
 # Tyler Paul Lipman — design portfolio
 
-A portfolio of furniture, lighting, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, with continued improvements in this same repository through October 8.
+A portfolio of furniture, lighting, materials, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, with continued improvements in this same repository through October 8.
 
 **Live site:** [tylerpaull.github.io/tyler-portfolio](https://tylerpaull.github.io/tyler-portfolio/)
 
@@ -10,8 +10,8 @@ Published and verified September 28, 2026 (America/Chicago).
 
 ## The site
 
-- Selected-work homepage with BARE, Ostra, Butterfly Streetcar Pavilion, and Balance.
-- Four individual case studies pairing project descriptions with original images and drawings.
+- Selected-work homepage with BARE, Ostra, Nucite, Butterfly Streetcar Pavilion, and Balance.
+- Five individual case studies pairing project descriptions with original images and drawings.
 - A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation, CNC cut plan, and exploded assembly drawing add construction detail; both drawings open at full resolution.
 - About page with a real portrait, verified background, tools, and email contact.
 - Mobile layouts, meaningful headings, skip navigation, visible keyboard focus, reduced-motion support, and responsive WebP images.
@@ -60,10 +60,10 @@ HTML supplies content and structure. CSS controls the editorial layout and adapt
 
 Project descriptions and imagery were gathered from [Tyler's existing portfolio](https://www.tylerpauldesg.com/), reviewed, and reorganized into concise case studies. The visual design was developed separately from the original Framer template. See [content sources](docs/content-sources.md) and [the image manifest](docs/asset-manifest.json).
 
-Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. The project work is sourced from Tyler's existing portfolio. The current headshot was supplied directly by Tyler; its transparency is preserved. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
+Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. The project work is sourced from Tyler's existing portfolio and supplied Studio III documents. Nucite uses the corrected OSM booklet for its project name, process, sample quantities, and imagery. The current headshot was supplied directly by Tyler; its transparency is preserved. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
 
 Portfolio artwork and photographs remain the property of their respective owners. This repository does not grant a blanket license to reuse them.
 
 ## Remaining content
 
-A current résumé has not yet been supplied. Add the real PDF and a clearly labeled download link when available. Shellboard/ReSourced is not in the current public portfolio and was not invented or added. Tyler can supply its material for a later case study. Add more specific project-role credits and reflections when verified.
+A current résumé has not yet been supplied. Add the real PDF and a clearly labeled download link when available. Add more specific project-role credits and reflections when verified.
