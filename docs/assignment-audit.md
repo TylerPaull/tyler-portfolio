@@ -4,11 +4,11 @@ Round 1: September 29, 2026. Final review: October 8, 2026, using the same repos
 
 | Category | Points | Current evidence | Remaining |
 | --- | ---: | --- | --- |
-| Live and published | 25 | Local website complete; GitHub account connected. | Public repository, Pages deployment and public-site tests pending. |
+| Live and published | 25 | Public repository and HTTPS GitHub Pages site live; all 81 published files return HTTP 200; direct pages work on desktop/mobile. | Tyler’s final review and Canvas submission. |
 | Portfolio quality | 50 | Four source-grounded case studies, verified background, process images, real contact email. | Current résumé; stronger explicit contribution/credits and Tyler's reflections when available. |
 | Design and presentation | 30 | Editorial design, real portrait, original project images, no placeholders. | Tyler's final content and visual review. |
-| Web best practices | 25 | Semantic HTML; skip link; headings; image alternatives and dimensions; responsive images; focus styles; reduced motion. | Public URL verification; no formal screen-reader audit performed. |
-| GitHub workflow | 20 | Meaningful local commits, README, source/asset provenance, validation and publication scripts. | Push and verify public repository and deployed commit. |
+| Web best practices | 25 | Semantic HTML; skip link; headings; image alternatives and dimensions; responsive images; focus styles; reduced motion. | No formal screen-reader audit performed; browser zoom testing beyond responsive-width checks remains unverified. |
+| GitHub workflow | 20 | Public repository, meaningful pushed commits, README, source/asset provenance, validation and publication scripts. | Submit the repository URL to Canvas. |
 
 ## Completed checks
 
@@ -29,3 +29,17 @@ BARE is the verified project title; the source does not establish the suffix “
 Tyler must submit the verified public repository URL, live GitHub Pages URL, and a short screen-share walkthrough through Canvas. The walkthrough and Canvas submission have not been completed by this build.
 
 After Round 1, record feedback and keep improving the same repository before October 8. Mapping a custom domain is optional and has not been performed.
+
+## Public deployment verification
+
+- Repository: https://github.com/TylerPaull/tyler-portfolio — public, default branch `main`.
+- Live site: https://tylerpaull.github.io/tyler-portfolio/ — HTTPS enforced.
+- GitHub Pages reports `built`, from `gh-pages` at `/`, with no build error.
+- Published website commit: `fed1ac4562492c924d8823c8b6e83f683be4d7c6`.
+- All 81 published HTML, CSS, JavaScript, and WebP files returned HTTP 200. The public homepage matched the local file byte for byte.
+- All six main public pages checked at 390 and 1440 CSS pixels: no horizontal overflow and correct page titles.
+- Public nested missing URL returned the custom 404; its CSS and recovery link resolved to the correct repository base and the recovery link worked.
+- Public BARE switch tested with Enter and Space: image visibility and pressed states updated correctly. No warning or error logs were reported during that check.
+- Contact uses Tyler’s supplied `tlipman@tulane.edu` mailto address. No email was sent.
+
+The résumé, video recording, Canvas submission, and optional custom-domain mapping remain outside the completed publication.

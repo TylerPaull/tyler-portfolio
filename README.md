@@ -2,7 +2,11 @@
 
 A portfolio of furniture, lighting, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, with continued improvements in this same repository through October 8.
 
-**Publication:** GitHub Pages setup is in progress. The intended address is `https://tylerpaull.github.io/tyler-portfolio/`; verify deployment before submitting it.
+**Live site:** [tylerpaull.github.io/tyler-portfolio](https://tylerpaull.github.io/tyler-portfolio/)
+
+**Public repository:** [TylerPaull/tyler-portfolio](https://github.com/TylerPaull/tyler-portfolio)
+
+Published and verified September 28, 2026 (America/Chicago).
 
 ## The site
 

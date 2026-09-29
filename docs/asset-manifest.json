@@ -294,27 +294,6 @@
     ]
   },
   {
-    "source": "https://framerusercontent.com/images/8Y4KgBuhEpIOtXfmR6Godtosk.jpg?width=6800&height=4400",
-    "original": "ostra-7.jpg",
-    "variants": [
-      {
-        "file": "ostra-7-640.webp",
-        "width": 640,
-        "height": 414
-      },
-      {
-        "file": "ostra-7-1280.webp",
-        "width": 1280,
-        "height": 828
-      },
-      {
-        "file": "ostra-7-2048.webp",
-        "width": 2048,
-        "height": 1325
-      }
-    ]
-  },
-  {
     "source": "https://framerusercontent.com/images/xnfhbijD0sjUjBiETsz48JS5KSo.jpg?width=2058&height=1410",
     "original": "pavilion-0.jpg",
     "variants": [
@@ -441,27 +420,6 @@
     ]
   },
   {
-    "source": "https://framerusercontent.com/images/j934oOp4pd62gaM3IS1aTrY5s.jpg",
-    "original": "interior-1.jpg",
-    "variants": [
-      {
-        "file": "interior-1-640.webp",
-        "width": 640,
-        "height": 457
-      },
-      {
-        "file": "interior-1-1280.webp",
-        "width": 1280,
-        "height": 914
-      },
-      {
-        "file": "interior-1-2048.webp",
-        "width": 2048,
-        "height": 1463
-      }
-    ]
-  },
-  {
     "source": "https://framerusercontent.com/images/H2uEpS6XPjb6OhIa0u1JvTzQU.png?width=11570&height=5082",
     "original": "interior-2.png",
     "variants": [
@@ -521,48 +479,6 @@
         "file": "interior-4-1449.webp",
         "width": 1449,
         "height": 1375
-      }
-    ]
-  },
-  {
-    "source": "https://framerusercontent.com/images/JF7si29lU7fFYS2k8cq6MhaqFJ4.png?width=2191&height=1440",
-    "original": "interior-5.png",
-    "variants": [
-      {
-        "file": "interior-5-640.webp",
-        "width": 640,
-        "height": 421
-      },
-      {
-        "file": "interior-5-1280.webp",
-        "width": 1280,
-        "height": 841
-      },
-      {
-        "file": "interior-5-2048.webp",
-        "width": 2048,
-        "height": 1346
-      }
-    ]
-  },
-  {
-    "source": "https://framerusercontent.com/images/fo8aUDwQjJkE2OigO1Xfs2VhctY.png?width=2182&height=1441",
-    "original": "interior-6.png",
-    "variants": [
-      {
-        "file": "interior-6-640.webp",
-        "width": 640,
-        "height": 423
-      },
-      {
-        "file": "interior-6-1280.webp",
-        "width": 1280,
-        "height": 846
-      },
-      {
-        "file": "interior-6-2048.webp",
-        "width": 2048,
-        "height": 1353
       }
     ]
   },
