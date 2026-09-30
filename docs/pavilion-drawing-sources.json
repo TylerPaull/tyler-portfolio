@@ -1,0 +1,110 @@
+[
+  {
+    "name": "pavilion-roof-plan",
+    "source": "Lipman_Tyler_Pavilion_Plot_SP26.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points_top_left": [
+      86,
+      226,
+      734,
+      590
+    ],
+    "render_dpi": 300,
+    "png_dimensions": [
+      2700,
+      1517
+    ],
+    "caption": "Roof plan - four tilted roofs beside the streetcar alignment.",
+    "path": "work/pavilion-refresh/pavilion-roof-plan.png"
+  },
+  {
+    "name": "pavilion-ground-plan",
+    "source": "Lipman_Tyler_Pavilion_Plot_SP26.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points_top_left": [
+      86,
+      622,
+      734,
+      925
+    ],
+    "render_dpi": 300,
+    "png_dimensions": [
+      2700,
+      1262
+    ],
+    "caption": "Ground plan - connected circular spaces and their circulation.",
+    "path": "work/pavilion-refresh/pavilion-ground-plan.png"
+  },
+  {
+    "name": "pavilion-section-b",
+    "source": "Lipman_Tyler_Pavilion_Plot_SP26.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points_top_left": [
+      973,
+      628,
+      1626,
+      923
+    ],
+    "render_dpi": 300,
+    "png_dimensions": [
+      2721,
+      1229
+    ],
+    "caption": "Cross section - the shelter in relation to the streetcar corridor.",
+    "path": "work/pavilion-refresh/pavilion-section-b.png"
+  },
+  {
+    "name": "pavilion-section-c",
+    "source": "Lipman_Tyler_Pavilion_Plot_SP26.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points_top_left": [
+      973,
+      943,
+      1626,
+      1230
+    ],
+    "render_dpi": 300,
+    "png_dimensions": [
+      2721,
+      1196
+    ],
+    "caption": "Longitudinal section - changing enclosure and elevation across the sequence.",
+    "path": "work/pavilion-refresh/pavilion-section-c.png"
+  },
+  {
+    "name": "pavilion-axon",
+    "source": "Lipman_Tyler_Pavilion_Plot_SP26.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points_top_left": [
+      957,
+      1260,
+      1410,
+      1637
+    ],
+    "render_dpi": 420,
+    "png_dimensions": [
+      2642,
+      2199
+    ],
+    "caption": "Axonometric - four connected pavilions with changing roof height and enclosure.",
+    "path": "work/pavilion-refresh/pavilion-axon.png"
+  },
+  {
+    "name": "pavilion-water-diagram",
+    "source": "Lipman_Tyler_Pavilion_Plot_SP26.pdf",
+    "pdf_page": 1,
+    "crop_pdf_points_top_left": [
+      967,
+      312,
+      1626,
+      588
+    ],
+    "render_dpi": 300,
+    "png_dimensions": [
+      2746,
+      1150
+    ],
+    "caption": "Environmental diagram - tilted roofs direct water toward planting beds.",
+    "path": "work/pavilion-refresh/pavilion-water-diagram.png"
+  }
+]

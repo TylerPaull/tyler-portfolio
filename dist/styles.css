@@ -12,3 +12,25 @@
 .motion-study{margin:36px 0 0;min-width:0;max-width:100%}.motion-study video{display:block;width:100%;max-width:100%;height:auto;aspect-ratio:16/9;background:#f1f0eb}.motion-study video:focus-visible{outline:3px solid var(--accent);outline-offset:6px}.motion-study figcaption{font-size:14px;color:var(--muted);line-height:1.5;margin-top:14px}.gallery figcaption .drawing-download{display:inline;background:none;text-decoration:underline;white-space:normal}
 
 .nucite-hero img{object-fit:contain;background:var(--paper)}.material-samples img{aspect-ratio:1;object-fit:cover}.project-card.wide{grid-column:1/-1;padding-top:0}.project-card.wide .project-media{aspect-ratio:2.5}@media(max-width:560px){.project-card.wide .project-media{aspect-ratio:1.8}}
+
+/* Object-led case studies: clean opening views, then a paced process story. */
+.project-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:64px 40px}
+.project-card:nth-child(2),.project-card:nth-child(4){padding-top:0}
+.object-card{aspect-ratio:1.35;background:#fff;padding:clamp(20px,3vw,48px)}
+.object-card>img{width:100%;height:100%;object-fit:contain}
+.project-card.wide .object-card{aspect-ratio:2.25}
+.object-stage{background:#fff;padding:clamp(20px,3vw,44px);display:grid;place-items:center}
+.object-hero .object-stage img{width:100%;height:clamp(320px,44vw,630px);max-height:none;object-fit:contain;background:transparent}
+.hero-figure .figure-caption{font-size:12px;letter-spacing:.025em}
+.case-header{padding-bottom:36px}.case-deck{max-width:970px}
+.case-section{gap:56px;padding-block:76px}.case-section p{max-width:720px}
+.gallery{gap:30px}.gallery a{background:#fff}.gallery .drawing a{padding:clamp(10px,1.4vw,22px)}
+.gallery .drawing img{object-fit:contain}.gallery figcaption{max-width:730px}
+.configuration [data-panel]{background:#fff;padding:0;height:500px;overflow:hidden}
+.configuration [data-panel] img{height:100%;object-fit:cover;transform:scale(2.1);transform-origin:50% 75%}
+.stage-notes{margin-top:32px;gap:24px}.stage-notes>div{border-top:1px solid var(--line);padding-top:18px}
+.stage-notes h3 span{font:12px Consolas,monospace;color:var(--accent);display:block;margin-bottom:9px}
+.stage-notes h3{font-size:25px}.stage-notes p{font-size:16px}
+.portrait{background:#fff}
+@media(max-width:800px){.case-section{gap:24px;padding-block:48px}.project-grid{gap:40px 24px}.object-hero .object-stage img{height:420px}}
+@media(max-width:560px){.project-grid{display:block}.object-card{aspect-ratio:1.25;padding:24px}.project-card.wide .object-card{aspect-ratio:1.25}.object-stage{padding:20px}.object-hero .object-stage img{height:300px}.case-header{padding-bottom:28px}.case-section{padding-block:38px}.configuration [data-panel]{padding:0;height:300px}.configuration [data-panel] img{height:100%}.stage-notes{grid-template-columns:1fr 1fr;gap:18px}.stage-notes p{font-size:15px}.stage-notes h3{font-size:22px}}

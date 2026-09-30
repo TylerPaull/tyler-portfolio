@@ -2,15 +2,17 @@
 
 Round 1: September 29, 2026. Final review: October 8, 2026, using the same repository. This records evidence, not a predicted grade.
 
+**Current revision status — September 29:** The five-case-study editorial redesign is implemented and checked locally. BARE now uses the full-size chair. Public deployment verification is pending; current-revision local checks are recorded below.
+
 | Category | Points | Current evidence | Remaining |
 | --- | ---: | --- | --- |
-| Live and published | 25 | Public repository and HTTPS GitHub Pages site live; all 81 published files return HTTP 200; direct pages work on desktop/mobile. | Tyler’s final review and Canvas submission. |
+| Live and published | 25 | Public repository and HTTPS GitHub Pages site previously verified; baseline deployment evidence is recorded below. | Verify the current redesign after publication; Tyler’s final review and Canvas submission. |
 | Portfolio quality | 50 | Five source-grounded case studies, verified background, process images, real contact email. | Current résumé; stronger explicit contribution/credits and Tyler's reflections when available. |
-| Design and presentation | 30 | Editorial design, real portrait, original project images, no placeholders. | Tyler's final content and visual review. |
+| Design and presentation | 30 | Five case studies with clean opening images, numbered narratives, real portrait, and original project photographs/drawings. | Tyler's final review. |
 | Web best practices | 25 | Semantic HTML; skip link; headings; image alternatives and dimensions; responsive images; focus styles; reduced motion. | No formal screen-reader audit performed; browser zoom testing beyond responsive-width checks remains unverified. |
 | GitHub workflow | 20 | Public repository, meaningful pushed commits, README, source/asset provenance, validation and publication scripts. | Submit the repository URL to Canvas. |
 
-## Completed checks
+## Completed checks — initial version
 
 - All six main pages checked in the browser at 320, 390, 768, and 1440 CSS-pixel widths: no horizontal page overflow; exactly one h1 per page.
 - Visually inspected the desktop homepage and mobile homepage/BARE interaction.
@@ -22,7 +24,7 @@ Round 1: September 29, 2026. Final review: October 8, 2026, using the same repos
 
 ## Content accuracy
 
-BARE is the verified project title; the source does not establish the suffix “001.” Ostra is a studio lighting object. Butterfly is labeled a proposal. Balance is explicitly in progress. No invented solo roles, testing metrics, materials, measurements, awards, or clinical outcomes are included.
+BARE is the verified project title; the source does not establish the suffix “001.” Ostra is a studio lighting object with cardboard development studies. Butterfly is labeled a proposal and dated Spring 2026 following the supplied original studio boards. Balance is explicitly in progress. No invented solo roles, testing metrics, materials, measurements, awards, or clinical outcomes are included.
 
 ## Submission still required
 
@@ -61,3 +63,15 @@ The résumé, video recording, Canvas submission, and optional custom-domain map
 - Selected 13 original image assets from the corrected OSM booklet and generated 29 responsive WebP variants with descriptive alternatives and full-image links.
 - Verified sample quantities and narrative against the source. Copy describes a material exploration and tray application study, without unsupported performance or food-contact claims.
 - Local validation passes for eight HTML pages. Nucite and the homepage were checked at 390px and 1440px without horizontal overflow. The Nucite homepage link and a full-image link worked; no browser warning or error logs were reported.
+
+## Editorial redesign — September 29
+
+- Reorganized all five project pages around clean opening images and numbered narratives, carrying the Nucite story format across the portfolio.
+- Rebuilt Butterfly Streetcar Pavilion around six standalone drawings rendered from page 1 of the original vector plot: axonometric, ground plan, roof plan, two sections, and environmental diagram. Full plot boards are removed; atmosphere renderings support the final experience section.
+- Corrected the pavilion date to Spring 2026 and course to Design II Studio / DESG 3005 using the supplied original plot and final-review board. Roof drainage and planting are presented as design intentions rather than tested outcomes.
+- Replaced Ostra's full-sheet presentation with extracted photographs and diagrams covering geometry, cardboard prototypes, assembly, and illumination. Captions distinguish cardboard development studies from the final wood-framed light.
+- Recorded source pages, extraction rectangles and dimensions in `pavilion-drawing-sources.json` and `ostra-image-sources.json`, with responsive variants in `asset-manifest.json`.
+- Tyler rejected the small pencil-model image as BARE's main photograph. It was replaced with a background-removed photograph of the full-size chair; no small model cutouts are published. The original full-size photographs remain in the switch and closing gallery.
+- **Current-revision local checks:** all seven content pages at 320, 390, 768 and 1440 CSS pixels have no horizontal overflow and one h1. Desktop opening visuals and mobile pavilion drawings/BARE comparison were visually reviewed. The BARE switch works by click and Enter with correct visibility and pressed states; video metadata loads with an 11-second duration and no playback error. The pavilion ground-plan link opens the complete 2400px image. Static validation passes for eight HTML pages. Browser warning/error logs were empty. Public deployment verification is pending.
+
+The résumé, verified contribution/credits and reflections, walkthrough recording, Canvas submission, formal screen-reader audit, and browser zoom checks beyond responsive-width testing remain unresolved as described above. No custom-domain mapping has been performed.

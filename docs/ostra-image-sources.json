@@ -1,0 +1,126 @@
+[
+  {
+    "file": "ostra-final-front.png",
+    "source": "Lipman_Tyler_3F_Final-1 (2).pdf",
+    "page": 1,
+    "crop_points_from_top_left": [
+      847,
+      423,
+      1140,
+      716
+    ],
+    "pixels": [
+      1172,
+      1172
+    ],
+    "method": "Native PDF rendering at 4x with isolated source region; no background replacement or object changes"
+  },
+  {
+    "file": "ostra-final-angle.png",
+    "source": "Lipman_Tyler_3F_Final-1 (2).pdf",
+    "page": 1,
+    "crop_points_from_top_left": [
+      466,
+      423,
+      758,
+      716
+    ],
+    "pixels": [
+      1168,
+      1172
+    ],
+    "method": "Native PDF rendering at 4x with isolated source region; no background replacement or object changes"
+  },
+  {
+    "file": "ostra-illuminated.png",
+    "source": "Lipman_Tyler_3F_Final-1 (2).pdf",
+    "page": 1,
+    "crop_points_from_top_left": [
+      465,
+      109,
+      759,
+      403
+    ],
+    "pixels": [
+      1176,
+      1176
+    ],
+    "method": "Native PDF rendering at 4x with isolated source region; no background replacement or object changes"
+  },
+  {
+    "file": "ostra-scales-study.png",
+    "source": "2B Refinement Template.pdf",
+    "page": 1,
+    "crop_points_from_top_left": [
+      476,
+      317,
+      759,
+      589
+    ],
+    "pixels": [
+      1132,
+      1088
+    ],
+    "method": "Native PDF rendering at 4x with isolated source region; no background replacement or object changes"
+  },
+  {
+    "file": "ostra-early-prototype.png",
+    "source": "Lipman_Tyler_Version_1_Prototype.jpeg",
+    "crop_pixels_from_top_left": [
+      1202,
+      261,
+      2065,
+      819
+    ],
+    "pixels": [
+      863,
+      558
+    ],
+    "method": "Original image isolated from presentation sheet, without alteration"
+  },
+  {
+    "file": "ostra-layer-detail.png",
+    "source": "Lipman_Tyler_Version_1_Prototype.jpeg",
+    "crop_pixels_from_top_left": [
+      202,
+      261,
+      1065,
+      819
+    ],
+    "pixels": [
+      863,
+      558
+    ],
+    "method": "Original image isolated from presentation sheet, without alteration"
+  },
+  {
+    "file": "ostra-panel-drawing.png",
+    "source": "Tyler_Lipman_3D_Version_2-1.jpeg",
+    "crop_pixels_from_top_left": [
+      278,
+      565,
+      1340,
+      1182
+    ],
+    "pixels": [
+      1122,
+      677
+    ],
+    "method": "Original line drawing extracted from presentation sheet; adjacent drawing fragment outside main drawing excluded and white padding added. No diagram geometry changed."
+  },
+  {
+    "file": "ostra-developed-prototype.png",
+    "source": "Tyler_Lipman_3D_Version_2-1.jpeg",
+    "crop_pixels_from_top_left": [
+      2194,
+      305,
+      2682,
+      869
+    ],
+    "pixels": [
+      488,
+      564
+    ],
+    "method": "Original image isolated from presentation sheet, without alteration"
+  }
+]

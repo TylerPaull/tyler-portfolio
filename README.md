@@ -6,12 +6,14 @@ A portfolio of furniture, lighting, materials, and spatial design by Tyler Paul 
 
 **Public repository:** [TylerPaull/tyler-portfolio](https://github.com/TylerPaull/tyler-portfolio)
 
-Published and verified September 28, 2026 (America/Chicago).
+Initial publication verified September 28, 2026 (America/Chicago). The September 29 editorial redesign is documented below; its final visual checks and publication verification are recorded separately in [the audit](docs/assignment-audit.md).
 
 ## The site
 
 - Selected-work homepage with BARE, Ostra, Nucite, Butterfly Streetcar Pavilion, and Balance.
-- Five individual case studies pairing project descriptions with original images and drawings.
+- Five individual case studies use a clean opening image followed by numbered sections that explain the idea, development, and outcome or current direction.
+- Butterfly Streetcar Pavilion uses six standalone drawings extracted from an original vector PDF, followed by atmosphere renderings. Full presentation boards are removed. The original studio board establishes the corrected date, Spring 2026.
+- Ostra pairs individual object photographs with extracted geometry, cardboard-prototype, and assembly studies, making the design sequence readable without full presentation sheets.
 - A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation, CNC cut plan, and exploded assembly drawing add construction detail; both drawings open at full resolution.
 - About page with a real portrait, verified background, tools, and email contact.
 - Mobile layouts, meaningful headings, skip navigation, visible keyboard focus, reduced-motion support, and responsive WebP images.
@@ -58,9 +60,9 @@ HTML supplies content and structure. CSS controls the editorial layout and adapt
 
 ## Content, credits, and AI use
 
-Project descriptions and imagery were gathered from [Tyler's existing portfolio](https://www.tylerpauldesg.com/), reviewed, and reorganized into concise case studies. The visual design was developed separately from the original Framer template. See [content sources](docs/content-sources.md) and [the image manifest](docs/asset-manifest.json).
+Project descriptions and imagery were gathered from [Tyler's existing portfolio](https://www.tylerpauldesg.com/) and original project files supplied by Tyler, reviewed, and reorganized into concise case studies. The visual design was developed separately from the original Framer template. See [content sources](docs/content-sources.md) and [the image manifest](docs/asset-manifest.json). The [pavilion drawing record](docs/pavilion-drawing-sources.json) and [Ostra image record](docs/ostra-image-sources.json) preserve source filenames, page or crop coordinates, and extraction methods.
 
-Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. The project work is sourced from Tyler's existing portfolio and supplied Studio III documents. Nucite uses the corrected OSM booklet for its project name, process, sample quantities, and imagery. The current headshot was supplied directly by Tyler; its transparency is preserved. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
+Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. Nucite uses the corrected Studio III OSM booklet for its project name, process, sample quantities, and imagery. The pavilion drawings and Ostra studies were extracted from Tyler's original files without redrawing their geometry. The full-size BARE chair and Ostra opening photographs received AI background removal; original photographs remain in their case studies. See [image sources and edit prompts](docs/visual-source-notes.md). The current headshot was supplied directly by Tyler; its transparency is preserved. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
 
 Portfolio artwork and photographs remain the property of their respective owners. This repository does not grant a blanket license to reuse them.
 
