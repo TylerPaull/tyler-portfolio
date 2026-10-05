@@ -17,7 +17,7 @@ All portfolio artwork and photographs remain their respective owners' property; 
 
 ## Additional materials supplied directly by Tyler
 
-On September 28, 2026, Tyler supplied a replacement headshot, the BARE CNC cut plan, an exploded assembly drawing, and the 11-second Back Piece Rotation MP4. The drawings are published with full-resolution originals and responsive display variants. The video is served unchanged with native playback controls, an extracted still, and a written visual description; it has no audio track.
+On September 28, 2026, Tyler supplied a replacement headshot, the BARE CNC cut plan, an exploded assembly drawing, and the 11-second Back Piece Rotation MP4. The drawings are published with full-resolution originals and responsive display variants. The video file is served unchanged with native playback controls, an extracted still, and a written visual description; it has no audio track. On October 4, Tyler requested continuous playback, so the player now uses muted inline autoplay and looping while retaining pause controls.
 
 The new exploded drawing depicts more than two rod shapes, while the original website describes two dowels. Updated copy uses “dowel system” without an exact count; no unverified total is asserted.
 

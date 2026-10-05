@@ -83,3 +83,9 @@ The résumé, verified contribution/credits and reflections, walkthrough recordi
 - Replaced the homepage card and project opening with Tyler’s hand-drawn floor plan from `XEROX.pdf`. The original drawing is preserved; only page margins and viewing orientation change.
 - Verified desktop landscape framing at 1440 CSS pixels and the upright phone image at 390 CSS pixels. No horizontal overflow on Balance; the full-plan link loads the complete 1000 × 2860 image.
 - Static validation passes for all eight HTML pages. Published from main `9967933` to GitHub Pages commit `66d84c4afa1e194ac4bf97e0d3b129ea4908020c`, confirmed built without error. All 15 checked pages, shared files, and floor-plan images returned HTTP 200 and matched local files byte for byte. The live Balance page selects the upright image at 390px and landscape image at 1440px with no overflow; browser warning/error logs were empty.
+
+## BARE continuous playback — October 4
+
+- Enabled native muted inline autoplay and looping at Tyler’s request, retaining controls so visitors can pause. This supersedes the initial click-to-play behavior recorded above.
+- Verified automatic playback when the video enters view, followed by a complete 11-second cycle and a return to 3 seconds while still playing. Native `loop`, `muted`, `playsInline`, and controls are enabled; no media error was reported.
+- Static publication checks passed for all eight pages.

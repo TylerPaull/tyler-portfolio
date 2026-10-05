@@ -14,7 +14,7 @@ Initial publication verified September 28, 2026 (America/Chicago). The September
 - Five individual case studies use a clean opening image followed by numbered sections that explain the idea, development, and outcome or current direction.
 - Butterfly Streetcar Pavilion uses six standalone drawings extracted from an original vector PDF, followed by atmosphere renderings. Full presentation boards are removed. The original studio board establishes the corrected date, Spring 2026.
 - Ostra pairs individual object photographs with extracted geometry, cardboard-prototype, and assembly studies, making the design sequence readable without full presentation sheets.
-- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation, CNC cut plan, and exploded assembly drawing add construction detail; both drawings open at full resolution.
+- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation autoplays muted and loops continuously, with controls available to pause it. A CNC cut plan and exploded assembly drawing add construction detail; both drawings open at full resolution.
 - About page with a real portrait, verified background, tools, and email contact.
 - Mobile layouts, meaningful headings, skip navigation, visible keyboard focus, reduced-motion support, and responsive WebP images.
 
