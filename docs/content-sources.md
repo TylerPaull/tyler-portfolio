@@ -59,3 +59,7 @@ All five case studies now follow the same format: a clean opening image, compact
 ### BARE image selection
 
 Tyler clarified that the small pencil model must not be the main photograph. The opening image should show the actual full-size piece; any small model can serve only as clearly labeled process evidence. The final opening uses the full-size chair photograph from the original BARE portfolio with its background removed. The comparison retains both unedited full-size photographs. Rejected model cutouts are not published. Background-edit prompts and deployed filenames are recorded in [visual-source-notes.md](visual-source-notes.md).
+
+## Balance floor-plan cover — October 4, 2026
+
+Tyler supplied `XEROX.pdf` and identified its drawing as his floor plan. The one-page source replaces the axonometric cover on the homepage and Balance case study. Faithful PDF rendering trims empty margins and provides landscape and upright variants without redrawing, recoloring, or changing the plan. The cover links to the full upright image. Crop coordinates, source checksum and image dimensions are recorded in `asset-manifest.json`.

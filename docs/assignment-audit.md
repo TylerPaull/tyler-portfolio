@@ -2,11 +2,11 @@
 
 Round 1: September 29, 2026. Final review: October 8, 2026, using the same repository. This records evidence, not a predicted grade.
 
-**Current revision status — September 29:** The five-case-study editorial redesign is implemented and checked locally. BARE now uses the full-size chair. Public deployment verification is pending; current-revision local checks are recorded below.
+**Editorial redesign baseline — September 29:** The five-case-study redesign is published and verified. BARE uses the full-size chair. GitHub Pages built the exact `gh-pages` commit `78f0675ae0e58f698d98972b8fedcf0d3862637c`, corresponding to `main` commit `db3fa00`; local and public checks are recorded below. The October 4 request to replace Balance's opening image with Tyler's floor plan from `XEROX.pdf` is a subsequent change and is not covered by this baseline verification.
 
 | Category | Points | Current evidence | Remaining |
 | --- | ---: | --- | --- |
-| Live and published | 25 | Public repository and HTTPS GitHub Pages site previously verified; baseline deployment evidence is recorded below. | Verify the current redesign after publication; Tyler’s final review and Canvas submission. |
+| Live and published | 25 | Public repository and HTTPS GitHub Pages site verified through the September 29 editorial redesign; deployment evidence is recorded below. | Verify the subsequent October 4 Balance image change after publication; Tyler’s final review and Canvas submission. |
 | Portfolio quality | 50 | Five source-grounded case studies, verified background, process images, real contact email. | Current résumé; stronger explicit contribution/credits and Tyler's reflections when available. |
 | Design and presentation | 30 | Five case studies with clean opening images, numbered narratives, real portrait, and original project photographs/drawings. | Tyler's final review. |
 | Web best practices | 25 | Semantic HTML; skip link; headings; image alternatives and dimensions; responsive images; focus styles; reduced motion. | No formal screen-reader audit performed; browser zoom testing beyond responsive-width checks remains unverified. |
@@ -72,6 +72,14 @@ The résumé, video recording, Canvas submission, and optional custom-domain map
 - Replaced Ostra's full-sheet presentation with extracted photographs and diagrams covering geometry, cardboard prototypes, assembly, and illumination. Captions distinguish cardboard development studies from the final wood-framed light.
 - Recorded source pages, extraction rectangles and dimensions in `pavilion-drawing-sources.json` and `ostra-image-sources.json`, with responsive variants in `asset-manifest.json`.
 - Tyler rejected the small pencil-model image as BARE's main photograph. It was replaced with a background-removed photograph of the full-size chair; no small model cutouts are published. The original full-size photographs remain in the switch and closing gallery.
-- **Current-revision local checks:** all seven content pages at 320, 390, 768 and 1440 CSS pixels have no horizontal overflow and one h1. Desktop opening visuals and mobile pavilion drawings/BARE comparison were visually reviewed. The BARE switch works by click and Enter with correct visibility and pressed states; video metadata loads with an 11-second duration and no playback error. The pavilion ground-plan link opens the complete 2400px image. Static validation passes for eight HTML pages. Browser warning/error logs were empty. Public deployment verification is pending.
+- **Redesign baseline local checks:** all seven content pages at 320, 390, 768 and 1440 CSS pixels have no horizontal overflow and one h1. Desktop opening visuals and mobile pavilion drawings/BARE comparison were visually reviewed. The BARE switch works by click and Enter with correct visibility and pressed states; video metadata loads with an 11-second duration and no playback error. The pavilion ground-plan link opens the complete 2400px image. Static validation passes for eight HTML pages. Browser warning/error logs were empty.
+- **Redesign baseline public verification:** GitHub Pages reports `built` for exact `gh-pages` commit `78f0675ae0e58f698d98972b8fedcf0d3862637c`, corresponding to `main` commit `db3fa00`. All 47 checked HTML, CSS, JavaScript, and new editorial asset files returned HTTP 200 and matched the local files byte for byte. The workspace verification record is `work/editorial-refresh/public-verification.json`.
+- The live desktop homepage at 1440 CSS pixels and mobile pavilion page at 390 CSS pixels were verified. This public evidence applies to the published editorial redesign, not to the subsequent October 4 Balance floor-plan change, whose checks are still separate and pending.
 
 The résumé, verified contribution/credits and reflections, walkthrough recording, Canvas submission, formal screen-reader audit, and browser zoom checks beyond responsive-width testing remain unresolved as described above. No custom-domain mapping has been performed.
+
+## Balance floor-plan cover — October 4
+
+- Replaced the homepage card and project opening with Tyler’s hand-drawn floor plan from `XEROX.pdf`. The original drawing is preserved; only page margins and viewing orientation change.
+- Verified desktop landscape framing at 1440 CSS pixels and the upright phone image at 390 CSS pixels. No horizontal overflow on Balance; the full-plan link loads the complete 1000 × 2860 image.
+- Static validation passes for all eight HTML pages. Public verification of this cover update follows publication.

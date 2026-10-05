@@ -34,3 +34,7 @@
 .portrait{background:#fff}
 @media(max-width:800px){.case-section{gap:24px;padding-block:48px}.project-grid{gap:40px 24px}.object-hero .object-stage img{height:420px}}
 @media(max-width:560px){.project-grid{display:block}.object-card{aspect-ratio:1.25;padding:24px}.project-card.wide .object-card{aspect-ratio:1.25}.object-stage{padding:20px}.object-hero .object-stage img{height:300px}.case-header{padding-bottom:28px}.case-section{padding-block:38px}.configuration [data-panel]{padding:0;height:300px}.configuration [data-panel] img{height:100%}.stage-notes{grid-template-columns:1fr 1fr;gap:18px}.stage-notes p{font-size:15px}.stage-notes h3{font-size:22px}}
+
+/* Keep the hand-drawn plan wide on desktop and upright on phones. */
+.floorplan-hero picture{display:block;width:100%}
+@media(max-width:560px){.floorplan-hero .object-stage img{height:auto;max-height:900px;object-fit:contain}}

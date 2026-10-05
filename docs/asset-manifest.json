@@ -1091,5 +1091,45 @@
         "height": 939
       }
     ]
+  },
+  {
+    "collection": "balance-floorplan-cover",
+    "source": "XEROX.pdf supplied directly by Tyler on October 4, 2026; page 1, hand-drawn plan. Faithful PDF rendering without AI redrawing.",
+    "original": "XEROX.pdf",
+    "source_sha256": "2ac59bd360c29ee709a5a1000a353515c3b8a1051bf1daae3e8afd8eeb62c300",
+    "crop_top_left_pdf_points": [
+      250,
+      59,
+      637,
+      1166
+    ],
+    "landscape_rotation_clockwise_degrees": 90,
+    "variants": [
+      {
+        "file": "balance-floorplan-landscape-640.webp",
+        "width": 639,
+        "height": 223
+      },
+      {
+        "file": "balance-floorplan-landscape-1280.webp",
+        "width": 1279,
+        "height": 446
+      },
+      {
+        "file": "balance-floorplan-landscape-2400.webp",
+        "width": 2400,
+        "height": 838
+      },
+      {
+        "file": "balance-floorplan-portrait-640.webp",
+        "width": 639,
+        "height": 1831
+      },
+      {
+        "file": "balance-floorplan-portrait-1000.webp",
+        "width": 1000,
+        "height": 2860
+      }
+    ]
   }
 ]

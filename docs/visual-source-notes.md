@@ -10,7 +10,7 @@ September 29, 2026. The layout follows the object-first, numbered-story approach
 | Ostra | Front photograph extracted from `Lipman_Tyler_3F_Final-1 (2).pdf`; background removed with the same built-in tool in edit mode. Tyler approved this lamp image. | `dist/assets/editorial-ostra-{640,1199}.webp` |
 | Nucite | Original tray-application study from the supplied Studio III booklet, retained. | Existing `nucite-*` files, documented in `asset-manifest.json`. |
 | Butterfly | Original axonometric linework rendered from the vector plot; no AI redraw. | `dist/assets/editorial-pavilion-axon-{640,1280,2400}.webp` |
-| Balance | Original transparent Rhino cutaway capture `ViewCapture20260402_152512.png`; no AI redraw. | `dist/assets/editorial-balance-axon-{640,1280,1437}.webp` |
+| Balance | Updated October 4: Tyler’s hand-drawn floor plan from `XEROX.pdf`, page 1. Page margins trimmed during PDF rendering; horizontal on desktop, upright on phones; no AI redraw. | `dist/assets/balance-floorplan-landscape-{640,1280,2400}.webp` and `balance-floorplan-portrait-{640,1000}.webp` |
 
 The BARE transformation switch and closing gallery retain the original full-size chair and bench photographs. The small pencil-model cutouts and rejected bench cutout attempts are not published. Background editing is generative and is not evidence of fabrication details; unedited source photographs remain in the case studies. WebP encoding, responsive sizing and transparent-canvas trimming are display preparation.
 
