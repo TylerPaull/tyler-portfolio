@@ -63,3 +63,13 @@ Tyler clarified that the small pencil model must not be the main photograph. The
 ## Balance floor-plan cover — October 4, 2026
 
 Tyler supplied `XEROX.pdf` and identified its drawing as his floor plan. The one-page source replaces the axonometric cover on the homepage and Balance case study. Faithful PDF rendering trims empty margins and provides landscape and upright variants without redrawing, recoloring, or changing the plan. The cover links to the full upright image. Crop coordinates, source checksum and image dimensions are recorded in `asset-manifest.json`.
+
+## The Laurel Group internship — October 6, 2026
+
+Tyler supplied `2026 Creative Design Internship.zip` and confirmed the official title **Creative Design Intern**. The year 2026 follows the supplied archive and dated supporting documents. Exact employment start/end dates were not supplied and are not inferred.
+
+The professional-experience page uses selected garden, terrace/pergola, and entry-material images from the rendering collection. Existing site references and AI-assisted concepts are labeled separately. Landscape design direction and planting plans are credited to The Laurel Group design team; Tyler’s narrative is limited to visualization and workflow support. No built outcomes, client decisions, sole landscape-design authorship, measured time savings, or specific guide-authorship claims are added.
+
+Source review included the live-demo PDF, rendering-workflow guide, plant-catalog guide, Photoshop/Luma walkthroughs, point-cloud guide, trail workflow and a research presentation. Only the clean second page of `RENDERING_LIVEDEMO.pdf` is reproduced from the documentation. It supports the documented tools and sequence, including designer review. Other documents inform source review without being published.
+
+Public files use neutral descriptions and image checksums. The private archive mapping stays in local working files because its folder names contain client and site identifiers. No raw archive, named project plans, budgets, client spreadsheets, property-management maps, or arborist reports are published. The selected images contain no visible identifying text. Images were resized and encoded as responsive WebP files; no new AI imagery was created or original artwork retouched for this addition.

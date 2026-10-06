@@ -31,3 +31,9 @@ Six pavilion drawings were rendered from original vector PDF regions. Source pag
 Ostra photographs and geometry/assembly diagrams were separated from their source sheets. Their source files and extraction regions are in `ostra-image-sources.json`. No generated geometry is substituted for the design drawings. The development model is identified as cardboard, and the final object as wood-framed.
 
 All deployed responsive variants are listed in `asset-manifest.json`.
+
+## The Laurel Group — October 6 addition
+
+The six selected reference/concept images are supplied internship assets, published as `laurel-garden-reference-*`, `laurel-garden-concept-*`, `laurel-terrace-reference-*`, `laurel-pergola-concept-*`, `laurel-entry-brick-*`, and `laurel-entry-stone-*`. The workflow excerpt is a faithful rendering of page 2 of `RENDERING_LIVEDEMO.pdf`, published as `laurel-workflow-*`. No new generation, background removal, or retouching was performed. AI-assisted concepts are explicitly labeled.
+
+The public asset manifest records descriptive source notes, hashes and output dimensions; client-identifying source paths remain local. Guide authorship is not asserted. Tyler confirmed his title as Creative Design Intern.

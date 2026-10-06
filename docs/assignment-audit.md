@@ -89,3 +89,9 @@ The résumé, verified contribution/credits and reflections, walkthrough recordi
 - Enabled native muted inline autoplay and looping at Tyler’s request, retaining controls so visitors can pause. This supersedes the initial click-to-play behavior recorded above.
 - Verified automatic playback when the video enters view, followed by a complete 11-second cycle and a return to 3 seconds while still playing. Native `loop`, `muted`, `playsInline`, and controls are enabled; no media error was reported.
 - Static publication checks passed for all eight pages.
+
+## The Laurel Group experience — October 6
+
+- Added `laurel.html` with the user-confirmed Creative Design Intern title, year 2026, selected visualization studies, explicit AI-assisted concept captions, team design credits, and a clean workflow-document excerpt. Home includes an Experience feature and direct introduction link; About includes the role and case-study link.
+- Source and visual review checked attribution and selected images. Only neutral selected content is included in the public files; private client identifiers, raw records, and the full internship archive remain outside the repository.
+- Home, About, and the internship page fit 320, 390, and 768 CSS-pixel widths without horizontal overflow, with one h1 each. Desktop internship and homepage feature reviewed at 1440px; mobile internship visually reviewed at 390px. About and breadcrumb navigation work, as does the workflow full-image link. Browser warning/error logs were empty. Static validation passes for nine HTML pages.
