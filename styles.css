@@ -50,3 +50,36 @@
 .experience-entry{margin:40px 0;padding:28px 0;border-block:1px solid var(--line)}.experience-entry h3{font-size:28px;font-weight:400;letter-spacing:-.035em;margin:16px 0 6px}.experience-entry p{font-size:18px}.experience-entry .experience-role{font-size:14px;color:var(--muted);margin:0 0 20px}
 @media(max-width:800px){.experience-card{gap:30px;grid-template-columns:1.2fr 1fr}.experience-copy h3{font-size:38px}.experience-copy p{font-size:18px}.experience-preview{padding-bottom:50px}}
 @media(max-width:560px){.experience-card{grid-template-columns:1fr;gap:28px}.experience-preview .section-bar{align-items:flex-start}.experience-preview .section-label{max-width:145px;text-align:right}.experience-copy h3{font-size:40px;margin-block:14px 18px}.experience-copy .text-link{margin-top:20px}.laurel-process{grid-template-columns:1fr;gap:26px}.laurel-process>div{border-top:1px solid var(--line);padding-top:18px}.experience-entry{margin-block:32px}}
+
+/* Project evidence: uncropped drawings, readable specifications, and linked case studies. */
+.internship-projects{padding:44px 0 76px;border-bottom:1px solid var(--line)}
+.internship-jump{margin:0 0 30px}
+.case-contents{display:flex;flex-wrap:wrap;gap:12px 28px;padding:25px 0;margin-top:25px;border-bottom:1px solid var(--line)}
+.case-contents a{font-size:14px;text-decoration:none;padding-block:5px}
+.case-contents a:hover{color:var(--accent)}
+.case-contents span{font:12px Consolas,monospace;color:var(--accent);margin-right:7px}
+.internship-projects .section-bar{border-top:0}
+.internship-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:52px 40px}
+.internship-project{text-decoration:none;min-width:0}
+.internship-project-image{overflow:hidden;background:var(--tint)}
+.internship-project-image img{width:100%;aspect-ratio:1.65;object-fit:cover;transition:transform .5s ease}
+.internship-project:hover img{transform:scale(1.025)}
+.internship-project-copy{padding-top:20px}
+.internship-project-copy .eyebrow{font-size:11px;color:var(--muted)}
+.internship-project-copy h3{display:flex;justify-content:space-between;gap:20px;font-size:clamp(27px,2.6vw,40px);font-weight:400;letter-spacing:-.045em;line-height:1.2;margin:8px 0 12px}
+.internship-project-copy h3 span{font-size:26px;color:var(--accent)}
+.internship-project-copy p{font-size:15px;color:var(--muted);margin:0;max-width:490px}
+.laurel-evidence{align-items:start}
+.laurel-evidence img{height:auto;object-fit:contain}
+.laurel-evidence .drawing a{padding:12px}
+.zoom-hint{display:block;margin-top:5px;text-decoration:underline;text-underline-offset:3px}
+.proposal-specs{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:32px 0;background:#eef0ed;padding:28px}
+.proposal-specs h3{font-size:clamp(26px,2.5vw,39px);font-weight:400;letter-spacing:-.04em;line-height:1.2;margin:10px 0}
+.proposal-specs p{font-size:14px;line-height:1.5;margin:0}
+.material-specs{margin:0}
+.material-specs>div{display:grid;grid-template-columns:130px 1fr;gap:24px;border-bottom:1px solid var(--line);padding:17px 0}
+.material-specs dt{font-size:14px;font-weight:600}
+.material-specs dd{margin:0;font-size:16px;line-height:1.6}
+.case-next .internship-return{font-size:15px;letter-spacing:0;text-decoration:underline;margin-top:18px;padding:8px 0;display:inline-block}
+@media(max-width:800px){.internship-projects{padding-block:32px 48px}.internship-grid{gap:40px 24px}}
+@media(max-width:560px){.internship-grid{grid-template-columns:1fr;gap:36px}.internship-project-copy h3{font-size:32px}.internship-projects .section-bar{display:block}.internship-projects .section-label{display:block;margin-top:7px}.proposal-specs{grid-template-columns:1fr;padding:24px}.proposal-specs>div+div{border-top:1px solid var(--line);padding-top:22px}.proposal-specs h3{font-size:35px}.material-specs>div{grid-template-columns:1fr;gap:6px}.laurel-evidence .drawing a{padding:6px}}
