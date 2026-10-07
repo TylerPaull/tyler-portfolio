@@ -11,7 +11,7 @@ Initial publication verified September 28, 2026 (America/Chicago). The September
 ## The site
 
 - Selected-work homepage with BARE, Ostra, Nucite, Butterfly Streetcar Pavilion, and Balance.
-- A dedicated professional-experience page for The Laurel Group, with Tyler’s confirmed Creative Design Intern title, selected landscape visualizations, site references, material comparisons, and a rendering-workflow excerpt. It is linked from Home and About.
+- A professional-experience overview for The Laurel Group links to five process case studies: SS-Mayer, 13 Beach Road, Garden dining, Pergola terrace, and Entry materials. They connect site references, supplied plans, proposal analysis, annotated studies, and visualizations, with Tyler’s confirmed Creative Design Intern title and clear team credits. Home and About link to the overview.
 - Five studio case studies use a clean opening image followed by numbered sections that explain the idea, development, and outcome or current direction.
 - Butterfly Streetcar Pavilion uses six standalone drawings extracted from an original vector PDF, followed by atmosphere renderings. Full presentation boards are removed. The original studio board establishes the corrected date, Spring 2026.
 - Ostra pairs individual object photographs with extracted geometry, cardboard-prototype, and assembly studies, making the design sequence readable without full presentation sheets.

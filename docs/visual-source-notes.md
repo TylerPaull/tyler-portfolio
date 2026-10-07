@@ -37,3 +37,10 @@ All deployed responsive variants are listed in `asset-manifest.json`.
 The six selected reference/concept images are supplied internship assets, published as `laurel-garden-reference-*`, `laurel-garden-concept-*`, `laurel-terrace-reference-*`, `laurel-pergola-concept-*`, `laurel-entry-brick-*`, and `laurel-entry-stone-*`. The workflow excerpt is a faithful rendering of page 2 of `RENDERING_LIVEDEMO.pdf`, published as `laurel-workflow-*`. No new generation, background removal, or retouching was performed. AI-assisted concepts are explicitly labeled.
 
 The public asset manifest records descriptive source notes, hashes and output dimensions; client-identifying source paths remain local. Guide authorship is not asserted. Tyler confirmed his title as Creative Design Intern.
+
+
+## Internship process studies — October 7 expansion
+
+Added 24 source assets as responsive WebP variants. The SS-Mayer annotation image is a faithful crop removing only the viewer interface; the underlying annotations remain unchanged. Beach Road, entry, and pergola drawings are faithful PDF-region renderings, with title blocks excluded. The garden CAD excerpt is cropped from its original screenshot and retains its native low resolution. All drawings open at their largest published resolution. Source checksums, crop coordinates, and dimensions are recorded in `asset-manifest.json`; private original-path mappings remain outside the repository.
+
+No new imagery was generated, and no design geometry was redrawn. Supplied AI-assisted visualizations remain labeled as concepts throughout the overview and case studies. The public contractor specification summary reproduces relevant dimensional/material facts rather than the financial proposal document.
