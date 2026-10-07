@@ -1285,21 +1285,21 @@
   {
     "collection": "laurel-process-expansion",
     "source": "Selected material supplied by Tyler in the 2026 Creative Design Internship archive; private source mapping retained locally.",
-    "description": "AI-assisted SS-Mayer pool-terrace visualization with white planters along the house",
+    "description": "AI-assisted Poolside Terrace pool-terrace visualization with white planters along the house",
     "source_sha256": "539c63c5df3b1dd5bec39ef20cdb8aa8022fba596f575333525a0ec0d868a839",
     "variants": [
       {
-        "file": "laurel-mayer-hero-640.webp",
+        "file": "laurel-poolside-terrace-hero-640.webp",
         "width": 640,
         "height": 346
       },
       {
-        "file": "laurel-mayer-hero-1280.webp",
+        "file": "laurel-poolside-terrace-hero-1280.webp",
         "width": 1280,
         "height": 692
       },
       {
-        "file": "laurel-mayer-hero-1706.webp",
+        "file": "laurel-poolside-terrace-hero-1706.webp",
         "width": 1706,
         "height": 922
       }
@@ -1308,21 +1308,21 @@
   {
     "collection": "laurel-process-expansion",
     "source": "Selected material supplied by Tyler in the 2026 Creative Design Internship archive; private source mapping retained locally.",
-    "description": "Supplied SS-Mayer site photograph showing the pool, terrace, house, and existing railings",
+    "description": "Supplied Poolside Terrace site photograph showing the pool, terrace, house, and existing railings",
     "source_sha256": "7671f33ab0bd210547dbcf9fef7df09527b5366e145bdb14d627fbb90474f829",
     "variants": [
       {
-        "file": "laurel-mayer-site-640.webp",
+        "file": "laurel-poolside-terrace-site-640.webp",
         "width": 640,
         "height": 345
       },
       {
-        "file": "laurel-mayer-site-1280.webp",
+        "file": "laurel-poolside-terrace-site-1280.webp",
         "width": 1280,
         "height": 689
       },
       {
-        "file": "laurel-mayer-site-1920.webp",
+        "file": "laurel-poolside-terrace-site-1920.webp",
         "width": 1920,
         "height": 1034
       }
@@ -1335,12 +1335,12 @@
     "source_sha256": "740310e5c6efb8874612beb465ee8e80ee9fd561b8d85a8a71b86f6f91a0fbd2",
     "variants": [
       {
-        "file": "laurel-mayer-plan-640.webp",
+        "file": "laurel-poolside-terrace-plan-640.webp",
         "width": 640,
         "height": 562
       },
       {
-        "file": "laurel-mayer-plan-1064.webp",
+        "file": "laurel-poolside-terrace-plan-1064.webp",
         "width": 1064,
         "height": 935
       }
@@ -1353,12 +1353,12 @@
     "source_sha256": "e0c2541c0aeeb13390c88d5f467a777276c236c71a5d99f2b429f60b1c3c21ca",
     "variants": [
       {
-        "file": "laurel-mayer-markup-640.webp",
+        "file": "laurel-poolside-terrace-markup-640.webp",
         "width": 640,
         "height": 326
       },
       {
-        "file": "laurel-mayer-markup-1210.webp",
+        "file": "laurel-poolside-terrace-markup-1210.webp",
         "width": 1210,
         "height": 616
       }
@@ -1371,17 +1371,17 @@
     "source_sha256": "5c6cd3c6c5076af8f6092c85acd37957ccffb334bc8ccf483c0f4274ffe92325",
     "variants": [
       {
-        "file": "laurel-mayer-detail-640.webp",
+        "file": "laurel-poolside-terrace-detail-640.webp",
         "width": 640,
         "height": 360
       },
       {
-        "file": "laurel-mayer-detail-1280.webp",
+        "file": "laurel-poolside-terrace-detail-1280.webp",
         "width": 1280,
         "height": 720
       },
       {
-        "file": "laurel-mayer-detail-1672.webp",
+        "file": "laurel-poolside-terrace-detail-1672.webp",
         "width": 1672,
         "height": 941
       }
@@ -1394,17 +1394,17 @@
     "source_sha256": "f7469341cccaa2f5d4c03308400f69c03d19198cb8dc510e604876ea40e939f7",
     "variants": [
       {
-        "file": "laurel-mayer-oblique-640.webp",
+        "file": "laurel-poolside-terrace-oblique-640.webp",
         "width": 640,
         "height": 387
       },
       {
-        "file": "laurel-mayer-oblique-1280.webp",
+        "file": "laurel-poolside-terrace-oblique-1280.webp",
         "width": 1280,
         "height": 774
       },
       {
-        "file": "laurel-mayer-oblique-1612.webp",
+        "file": "laurel-poolside-terrace-oblique-1612.webp",
         "width": 1612,
         "height": 975
       }
@@ -1413,16 +1413,16 @@
   {
     "collection": "laurel-process-expansion",
     "source": "Selected material supplied by Tyler in the 2026 Creative Design Internship archive; private source mapping retained locally.",
-    "description": "Supplied photograph of the existing SS-Mayer entrance gates",
+    "description": "Supplied photograph of the existing Poolside Terrace entrance gates",
     "source_sha256": "8c2e59e98b59a11abe36575fec31ed51a9540785868275ed2dc21a0eb05a419c",
     "variants": [
       {
-        "file": "laurel-mayer-gate-site-640.webp",
+        "file": "laurel-poolside-terrace-gate-site-640.webp",
         "width": 640,
         "height": 480
       },
       {
-        "file": "laurel-mayer-gate-site-800.webp",
+        "file": "laurel-poolside-terrace-gate-site-800.webp",
         "width": 800,
         "height": 600
       }
@@ -1435,17 +1435,17 @@
     "source_sha256": "828fb05c5eb49a363c967ae6ec17a136799ef119abc3a041b0808578b87bdb35",
     "variants": [
       {
-        "file": "laurel-mayer-gate-concept-640.webp",
+        "file": "laurel-poolside-terrace-gate-concept-640.webp",
         "width": 640,
         "height": 480
       },
       {
-        "file": "laurel-mayer-gate-concept-1280.webp",
+        "file": "laurel-poolside-terrace-gate-concept-1280.webp",
         "width": 1280,
         "height": 959
       },
       {
-        "file": "laurel-mayer-gate-concept-1449.webp",
+        "file": "laurel-poolside-terrace-gate-concept-1449.webp",
         "width": 1449,
         "height": 1086
       }
@@ -1458,12 +1458,12 @@
     "source_sha256": "bb2482f392a8a99fa72bce55ab1066889936e998121f190d7af867d7d4c78862",
     "variants": [
       {
-        "file": "laurel-mayer-review-640.webp",
+        "file": "laurel-poolside-terrace-review-640.webp",
         "width": 640,
         "height": 359
       },
       {
-        "file": "laurel-mayer-review-1243.webp",
+        "file": "laurel-poolside-terrace-review-1243.webp",
         "width": 1243,
         "height": 698
       }
@@ -1479,21 +1479,21 @@
   {
     "collection": "laurel-process-expansion",
     "source": "Selected material supplied by Tyler in the 2026 Creative Design Internship archive; private source mapping retained locally.",
-    "description": "AI-assisted 13 Beach Road visualization with layered planting beside a curved gravel drive",
+    "description": "AI-assisted Layered Arrival visualization with layered planting beside a curved gravel drive",
     "source_sha256": "67eefb345b0e909f926eee3c4727dc2016f0b05dc53e813db45465c2bcbef79e",
     "variants": [
       {
-        "file": "laurel-beach-hero-640.webp",
+        "file": "laurel-layered-arrival-hero-640.webp",
         "width": 640,
         "height": 478
       },
       {
-        "file": "laurel-beach-hero-1280.webp",
+        "file": "laurel-layered-arrival-hero-1280.webp",
         "width": 1280,
         "height": 956
       },
       {
-        "file": "laurel-beach-hero-1451.webp",
+        "file": "laurel-layered-arrival-hero-1451.webp",
         "width": 1451,
         "height": 1084
       }
@@ -1506,17 +1506,17 @@
     "source_sha256": "93111efdb182a5dc2483743bce1b54d19f377753921567b360a6d845f417c479",
     "variants": [
       {
-        "file": "laurel-beach-gate-640.webp",
+        "file": "laurel-layered-arrival-gate-640.webp",
         "width": 640,
         "height": 478
       },
       {
-        "file": "laurel-beach-gate-1280.webp",
+        "file": "laurel-layered-arrival-gate-1280.webp",
         "width": 1280,
         "height": 956
       },
       {
-        "file": "laurel-beach-gate-1451.webp",
+        "file": "laurel-layered-arrival-gate-1451.webp",
         "width": 1451,
         "height": 1084
       }
@@ -1525,21 +1525,21 @@
   {
     "collection": "laurel-process-expansion",
     "source": "Selected material supplied by Tyler in the 2026 Creative Design Internship archive; private source mapping retained locally.",
-    "description": "Supplied 13 Beach Road site photograph showing the curved driveway, lawn, fence, and gates",
+    "description": "Supplied Layered Arrival site photograph showing the curved driveway, lawn, fence, and gates",
     "source_sha256": "c3d31d571e657d5fdefff95e298ce7e5789fb0429e95fe7e961bdc4e9716a640",
     "variants": [
       {
-        "file": "laurel-beach-site-wide-640.webp",
+        "file": "laurel-layered-arrival-site-wide-640.webp",
         "width": 640,
         "height": 480
       },
       {
-        "file": "laurel-beach-site-wide-1280.webp",
+        "file": "laurel-layered-arrival-site-wide-1280.webp",
         "width": 1280,
         "height": 960
       },
       {
-        "file": "laurel-beach-site-wide-1920.webp",
+        "file": "laurel-layered-arrival-site-wide-1920.webp",
         "width": 1920,
         "height": 1440
       }
@@ -1552,17 +1552,17 @@
     "source_sha256": "a25001d688a096101291f01d93618af17bf39d230291ff4d21b23d84d290f50e",
     "variants": [
       {
-        "file": "laurel-beach-site-gate-640.webp",
+        "file": "laurel-layered-arrival-site-gate-640.webp",
         "width": 640,
         "height": 480
       },
       {
-        "file": "laurel-beach-site-gate-1280.webp",
+        "file": "laurel-layered-arrival-site-gate-1280.webp",
         "width": 1280,
         "height": 960
       },
       {
-        "file": "laurel-beach-site-gate-1920.webp",
+        "file": "laurel-layered-arrival-site-gate-1920.webp",
         "width": 1920,
         "height": 1440
       }
@@ -1575,22 +1575,22 @@
     "source_sha256": "8fe84a33e00be01b46379c1c4849abc25ee3b5b72023c34e1fcdd0f6eecfb42e",
     "variants": [
       {
-        "file": "laurel-beach-plan-640.webp",
+        "file": "laurel-layered-arrival-plan-640.webp",
         "width": 640,
         "height": 323
       },
       {
-        "file": "laurel-beach-plan-1280.webp",
+        "file": "laurel-layered-arrival-plan-1280.webp",
         "width": 1280,
         "height": 645
       },
       {
-        "file": "laurel-beach-plan-2400.webp",
+        "file": "laurel-layered-arrival-plan-2400.webp",
         "width": 2400,
         "height": 1209
       },
       {
-        "file": "laurel-beach-plan-2800.webp",
+        "file": "laurel-layered-arrival-plan-2800.webp",
         "width": 2800,
         "height": 1411
       }
@@ -1611,22 +1611,22 @@
     "source_sha256": "8fe84a33e00be01b46379c1c4849abc25ee3b5b72023c34e1fcdd0f6eecfb42e",
     "variants": [
       {
-        "file": "laurel-beach-planting-640.webp",
+        "file": "laurel-layered-arrival-planting-640.webp",
         "width": 640,
         "height": 495
       },
       {
-        "file": "laurel-beach-planting-1280.webp",
+        "file": "laurel-layered-arrival-planting-1280.webp",
         "width": 1280,
         "height": 990
       },
       {
-        "file": "laurel-beach-planting-2400.webp",
+        "file": "laurel-layered-arrival-planting-2400.webp",
         "width": 2400,
         "height": 1857
       },
       {
-        "file": "laurel-beach-planting-2800.webp",
+        "file": "laurel-layered-arrival-planting-2800.webp",
         "width": 2800,
         "height": 2166
       }
