@@ -119,3 +119,10 @@ The résumé, verified contribution/credits and reflections, walkthrough recordi
 - Tyler clarified that both planters are intended to be 18″ high. The contract’s 28″ height for one planter was an error he identified and corrected in later renderings. Updated the dimension cards, proposal-analysis narrative, review-image description/caption, corrected detail caption, overview teaser, metadata, and source records to reflect that contribution.
 - Retained the annotated image as evidence of the earlier error, clearly distinguished from the corrected detail and opening view. No imagery was altered. The direct clarification supersedes the earlier interpretation of the contract.
 - Static validation passed for all 14 pages. Published main `6db60ff` to Pages commit `21ccce4fc15af6501aa53c4d2e4a7e1549c79be3`, confirmed built without error. Both updated HTML pages match the public files byte for byte. The live browser shows two 18″ height cards, the contract-error explanation, and the revised before/corrected captions; the narrow layout remains readable.
+
+
+## Homepage employer cover — October 7
+
+- Replaced the homepage internship image with Tyler’s supplied Laurel Fine Landscapes logo. Preserved its full proportions on a white field and added responsive image variants.
+- Added small employer-context text below the firm name, based on the official company website: landscape architecture/design-build, property care, luxury outdoor living, and Huntington, New York. Removed the unrelated AI-visualization caption from that card.
+- Static checks passed for all 14 pages. Browser checks at 1440px desktop and 390px mobile confirmed a loaded, uncropped logo, readable firm context, no horizontal overflow, and a working link to the internship page. Reset the temporary viewport override.

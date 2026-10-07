@@ -1856,5 +1856,29 @@
         "height": 768
       }
     ]
+  },
+  {
+    "collection": "laurel-firm-logo",
+    "source": "Laurel_Group_Fine_Landscapes.jpg, supplied directly by Tyler for the homepage experience cover.",
+    "description": "Laurel Fine Landscapes company logo.",
+    "source_sha256": "4962beeacb85d4d2813f0cf87eba778b97d15817ede4fea7c97989d0dedbe14d",
+    "method": "Converted source color space to RGB and encoded responsive lossless WebP variants. No cropping, redrawing, or AI editing.",
+    "variants": [
+      {
+        "file": "laurel-firm-logo-640.webp",
+        "width": 640,
+        "height": 282
+      },
+      {
+        "file": "laurel-firm-logo-1200.webp",
+        "width": 1200,
+        "height": 528
+      },
+      {
+        "file": "laurel-firm-logo-1500.webp",
+        "width": 1500,
+        "height": 660
+      }
+    ]
   }
 ]

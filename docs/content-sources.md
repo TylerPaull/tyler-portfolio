@@ -86,3 +86,10 @@ Tyler requested two additional internship studies, confirmed that he analyzed th
 - **Entry materials:** supplied site photo and front-walkway plan excerpt, followed by brick/stone overall studies and their corresponding close views. No selected or installed finish is claimed.
 
 All five project labels are descriptive, following Tyler’s request to remove the client surname and street address from the two added studies. Public assets exclude full title blocks, unnecessary client/address/contact text, proposal prices, signatures, and markups containing personal names or costs. Plans and design direction are credited to The Laurel Group design team; source photography and markups are described as supplied, not attributed to Tyler. The terrace-height sequence (early contract error → Tyler’s review → corrected later renderings) is confirmed by Tyler; other source sequences remain editorial explanations rather than dated production timelines. Original filename mappings remain local; published asset checksums and crop coordinates support provenance.
+
+
+## Homepage firm cover — October 7, 2026
+
+Tyler supplied `Laurel_Group_Fine_Landscapes.jpg` and requested it replace the homepage internship cover. The full logo is displayed on white with its original proportions; responsive lossless WebP variants replace the garden concept only on that homepage card. Removed the former AI-concept caption from the logo card.
+
+The small firm description summarizes landscape architecture and design-build, property care, luxury outdoor living, and the Huntington, New York location. Checked against the firm’s [careers page](https://www.thelaurelgroup.net/careers/) (landscape architects, designers, and engineers), [landscape-designers description](https://www.thelaurelgroup.net/job-opening/landscape-designers/) (design/build, landscape maintenance, luxury outdoor furnishings, and Huntington), and [homepage](https://www.thelaurelgroup.net/) (design, construction, property care, outdoor living). This contextual description concerns the employer; it does not imply that Tyler is a landscape architect.
