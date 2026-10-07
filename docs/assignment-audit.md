@@ -112,3 +112,9 @@ The résumé, verified contribution/credits and reflections, walkthrough recordi
 - Replaced identifying page/asset paths with descriptive paths. The former pages are removed from the current deployment. This is a normal revision; earlier Git history has not been rewritten.
 - Static validation passed for all 14 pages, and a current-tree text/filename scan found no old identifiers.
 - Published from main `36a93f1` to Pages commit `d408922634b2060263fcabfb302e49e718488a7f`, confirmed built without error. All 101 checked site files matched the reviewed files. Both former project pages return HTTP 404. Verified the new project-card labels and overview → Poolside Terrace → Layered Arrival links in the live browser.
+
+
+## Poolside Terrace height correction — October 7
+
+- Tyler clarified that both planters are intended to be 18″ high. The contract’s 28″ height for one planter was an error he identified and corrected in later renderings. Updated the dimension cards, proposal-analysis narrative, review-image description/caption, corrected detail caption, overview teaser, metadata, and source records to reflect that contribution.
+- Retained the annotated image as evidence of the earlier error, clearly distinguished from the corrected detail and opening view. No imagery was altered. The direct clarification supersedes the earlier interpretation of the contract.

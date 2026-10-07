@@ -1385,7 +1385,8 @@
         "width": 1672,
         "height": 941
       }
-    ]
+    ],
+    "context": "Tyler confirmed the corrected design intent: both planters are 18 inches high. This frontal detail shows the corrected equal heights."
   },
   {
     "collection": "laurel-process-expansion",
@@ -1454,7 +1455,7 @@
   {
     "collection": "laurel-process-expansion",
     "source": "Selected material supplied by Tyler in the 2026 Creative Design Internship archive; private source mapping retained locally.",
-    "description": "Annotated visualization study calling for removal of the basketball hoop and revised planting near the terrace",
+    "description": "Earlier annotated terrace visualization showing unequal planter heights caused by a contract error.",
     "source_sha256": "bb2482f392a8a99fa72bce55ab1066889936e998121f190d7af867d7d4c78862",
     "variants": [
       {
@@ -1474,7 +1475,8 @@
       1446,
       760
     ],
-    "method": "Faithful crop of supplied annotated rendering; removes image-viewer interface only."
+    "method": "Faithful crop of supplied annotated rendering; removes image-viewer interface only.",
+    "context": "Tyler confirmed that he identified the contract error and corrected both planter heights to 18 inches in later renderings. This image documents the earlier error."
   },
   {
     "collection": "laurel-process-expansion",
