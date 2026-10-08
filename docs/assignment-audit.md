@@ -127,3 +127,10 @@ The résumé, verified contribution/credits and reflections, walkthrough recordi
 - Added small employer-context text below the firm name, based on the official company website: landscape architecture/design-build, property care, luxury outdoor living, and Huntington, New York. Removed the unrelated AI-visualization caption from that card.
 - Static checks passed for all 14 pages. Browser checks at 1440px desktop and 390px mobile confirmed a loaded, uncropped logo, readable firm context, no horizontal overflow, and a working link to the internship page. Reset the temporary viewport override.
 - Published main `a35c638` to Pages commit `a40c2cf7ebe87cb39ed9ba954eafa9c5823162d1`, confirmed built without error. All 18 changed public HTML, stylesheet, and logo files returned HTTP 200 and matched the reviewed files byte for byte. The live browser displays the loaded logo and new firm description correctly.
+
+## Custom domain — October 7
+
+- Tyler connected `tylerpauldesg.com` through GitHub Pages and GoDaddy. Read-only checks at the authoritative nameserver, Google, and Cloudflare confirmed all four GitHub Pages A records and the `www` CNAME pointing to `tylerpaull.github.io`; no conflicting apex AAAA records were present.
+- Incorporated GitHub's CNAME commit into `dist/`, preserved both branch histories, and recorded the subtree relationship for future publications. Updated the README, 404 recovery links, and link-check base for the custom domain.
+- All 14 pages passed static validation. Pages commit `902db3818d3f711ab10ba1b30993aead95a9b0cc` built successfully. The HTTPS homepage, Layered Arrival page, stylesheet, script, and CNAME returned 200 and matched local files; a missing route returned the reviewed custom 404 page with correct root-relative links.
+- GitHub's DNS check became successful during setup. At this verification, apex HTTPS worked, while GitHub reported a new certificate request after detecting the DNS change. HTTPS enforcement remained pending issuance; the initial attempt was rejected by GitHub because issuance was incomplete. The `www` HTTPS certificate had not yet passed verification.
