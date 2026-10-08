@@ -2,7 +2,7 @@
 
 A portfolio of furniture, lighting, materials, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, with continued improvements in this same repository through October 8.
 
-**Live site:** [tylerpaull.github.io/tyler-portfolio](https://tylerpaull.github.io/tyler-portfolio/)
+**Live site:** [tylerpauldesg.com](https://tylerpauldesg.com/)
 
 **Public repository:** [TylerPaull/tyler-portfolio](https://github.com/TylerPaull/tyler-portfolio)
 
@@ -53,7 +53,7 @@ After reviewing and committing changes:
 
 This checks the site, pushes `main`, and publishes `dist/` to `gh-pages`. It requires Git, its standard subtree command, and authenticated access to this repository. No force push is used. GitHub runs its Pages deployment after the branch updates; wait for success and check the public site.
 
-The recovery links in `dist/404.html` and the `BASE` in `scripts/check_site.py` use `/tyler-portfolio/`. Update these if the repository path changes or a custom domain is added. Normal pages use relative links and work under a repository subdirectory.
+The custom domain is `tylerpauldesg.com`, preserved in `dist/CNAME`. Keep that file when publishing. The recovery links in `dist/404.html` and the `BASE` in `scripts/check_site.py` use `/` for the custom domain. Normal pages use relative links. If domain settings are edited on GitHub and create a commit on `gh-pages`, incorporate that change into `dist/` before publishing; do not force-push over it.
 
 ## How the files work
 
