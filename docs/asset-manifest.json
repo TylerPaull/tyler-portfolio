@@ -2091,5 +2091,18 @@
         "height": 1403
       }
     ]
+  },
+  {
+    "collection": "straight-story-cover",
+    "source": "Modern Red-and-White Woven Cantilever Chair.png, supplied directly by Tyler on October 22, 2026 for The Straight Story homepage cover.",
+    "source_sha256": "3114adeca57ec3b7a97fa3477e6d5be5e60d7f80871ab1a017f8ef27a882960e",
+    "method": "Original transparent PNG copied without image editing. Displayed with CSS containment and padding.",
+    "variants": [
+      {
+        "file": "straight-story-cover-3114adec.png",
+        "width": 1090,
+        "height": 1443
+      }
+    ]
   }
 ]
