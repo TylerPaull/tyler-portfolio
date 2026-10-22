@@ -112,3 +112,7 @@ a.experience-cta:hover,a.experience-cta:focus-visible,.experience-card:hover .ex
 .chair-gallery .compact-photo{max-width:620px}
 @media(max-width:800px){.chair-opening{grid-template-columns:1fr 1fr;gap:30px;align-items:start}.chair-hero img{height:460px}.chair-opening-copy h2{font-size:34px}.chair-opening-copy p{font-size:16px}.chair-gallery img{max-height:480px}}
 @media(max-width:560px){.chair-opening{grid-template-columns:1fr;gap:28px}.chair-hero img{height:auto;max-height:520px}.chair-opening-copy h2{font-size:38px}.chair-opening-copy p{font-size:18px}.chair-gallery img{max-height:480px}.chair-cover{aspect-ratio:1}.chair-case .case-title{font-size:clamp(48px,12vw,68px)}}
+
+/* Supplied transparent cover: give the complete chair room on white. */
+.chair-cover.chair-cutout{background:#fff}
+.chair-cover.chair-cutout>img{padding:clamp(20px,3vw,48px)}
