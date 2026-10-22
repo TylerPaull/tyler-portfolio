@@ -1,6 +1,6 @@
 # Tyler Paul Lipman — design portfolio
 
-A portfolio of furniture, lighting, materials, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, with continued improvements in this same repository through October 8.
+A portfolio of furniture, lighting, materials, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, revised through the October 8 final review, and maintained in this same repository as new work develops.
 
 **Live site:** [tylerpauldesg.com](https://tylerpauldesg.com/)
 
@@ -10,9 +10,11 @@ Initial publication verified September 28, 2026 (America/Chicago). The September
 
 ## The site
 
-- Selected-work homepage with BARE, Ostra, Nucite, Butterfly Streetcar Pavilion, and Balance.
+- Selected-work homepage with seven studio projects: BARE, Ostra, Nucite, Butterfly Streetcar Pavilion, The Straight Story, ALTER, and Balance.
 - A professional-experience overview for The Laurel Group links to five process case studies: Poolside Terrace, Layered Arrival, Garden dining, Pergola terrace, and Entry materials. They connect site references, supplied plans, proposal analysis, annotated studies, and visualizations, with Tyler’s confirmed Creative Design Intern title and clear team credits. Home and About link to the overview.
-- Five studio case studies use a clean opening image followed by numbered sections that explain the idea, development, and outcome or current direction.
+- Seven studio case studies use a clean opening image followed by numbered sections that explain the idea, development, and outcome or current direction.
+- The Straight Story follows a replacement woven seat and back for an existing cantilever chair frame, with process photographs of stitching and assembly. Its initial repair-focused proposal is distinguished from the photographed red-and-white stitched iteration; comfort and load performance are not presented as tested results.
+- ALTER follows a damaged Monobloc chair from condition assessment through a revised repair plan and material studies to the photographed repair. The revised plan connects the arms and back with plywood and oak dowels; structural validation is not claimed.
 - Butterfly Streetcar Pavilion uses six standalone drawings extracted from an original vector PDF, followed by atmosphere renderings. Full presentation boards are removed. The original studio board establishes the corrected date, Spring 2026.
 - Ostra pairs individual object photographs with extracted geometry, cardboard-prototype, and assembly studies, making the design sequence readable without full presentation sheets.
 - A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation autoplays muted and loops continuously, with controls available to pause it. A CNC cut plan and exploded assembly drawing add construction detail; both drawings open at full resolution.

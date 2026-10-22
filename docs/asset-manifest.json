@@ -1880,5 +1880,216 @@
         "height": 660
       }
     ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "straight-story-detail-back",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "straight-story-detail-back-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "file": "straight-story-detail-back-1320.webp",
+        "width": 1320,
+        "height": 1760
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "straight-story-detail-seat",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "straight-story-detail-seat-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "file": "straight-story-detail-seat-1320.webp",
+        "width": 1320,
+        "height": 1760
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "straight-story-frame",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "straight-story-frame-640.webp",
+        "width": 640,
+        "height": 634
+      },
+      {
+        "file": "straight-story-frame-1320.webp",
+        "width": 1320,
+        "height": 1308
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "straight-story-hero",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "straight-story-hero-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "file": "straight-story-hero-1320.webp",
+        "width": 1320,
+        "height": 1760
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "straight-story-process",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "straight-story-process-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "file": "straight-story-process-1320.webp",
+        "width": 1320,
+        "height": 1760
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "straight-story-seat",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "straight-story-seat-640.webp",
+        "width": 640,
+        "height": 853
+      },
+      {
+        "file": "straight-story-seat-1320.webp",
+        "width": 1320,
+        "height": 1760
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "alter-after",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "alter-after-640.webp",
+        "width": 640,
+        "height": 900
+      },
+      {
+        "file": "alter-after-1025.webp",
+        "width": 1025,
+        "height": 1442
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "alter-assessment",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "alter-assessment-640.webp",
+        "width": 640,
+        "height": 904
+      },
+      {
+        "file": "alter-assessment-1020.webp",
+        "width": 1020,
+        "height": 1442
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "alter-before",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "alter-before-640.webp",
+        "width": 640,
+        "height": 902
+      },
+      {
+        "file": "alter-before-924.webp",
+        "width": 924,
+        "height": 1303
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "alter-chair",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "alter-chair-515.webp",
+        "width": 515,
+        "height": 726
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "alter-materials",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "alter-materials-640.webp",
+        "width": 640,
+        "height": 640
+      },
+      {
+        "file": "alter-materials-1065.webp",
+        "width": 1065,
+        "height": 1065
+      }
+    ]
+  },
+  {
+    "collection": "circular-design-chair-studies",
+    "source": "Existing portfolio WebP assets imported in commit 465b060. Original photographic source files were not identified; see content-sources.md for related studio documents.",
+    "original": "alter-plan",
+    "method": "Existing WebP assets reused without image editing; revised layout preserves complete images.",
+    "variants": [
+      {
+        "file": "alter-plan-640.webp",
+        "width": 640,
+        "height": 438
+      },
+      {
+        "file": "alter-plan-2047.webp",
+        "width": 2047,
+        "height": 1403
+      }
+    ]
   }
 ]
