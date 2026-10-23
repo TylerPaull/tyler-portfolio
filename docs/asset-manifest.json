@@ -2104,5 +2104,18 @@
         "height": 1443
       }
     ]
+  },
+  {
+    "collection": "alter-cover",
+    "source": "ChatGPT Image Oct 23, 2026, 02_31_07 PM.png, supplied directly by Tyler on October 23, 2026 for the ALTER homepage cover.",
+    "source_sha256": "3fc3b82a4da5f0f496274df9c54027a4e3c3661bf4d4ab139a9112c835c8cddb",
+    "method": "Supplied transparent PNG copied without further image editing. Displayed with CSS containment and padding.",
+    "variants": [
+      {
+        "file": "alter-cover-3fc3b82a.png",
+        "width": 1057,
+        "height": 1488
+      }
+    ]
   }
 ]

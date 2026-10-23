@@ -120,3 +120,7 @@ The Straight Story and ALTER extend the selected-work collection to seven studio
 ## The Straight Story cover — October 22, 2026
 
 Tyler supplied `Modern Red-and-White Woven Cantilever Chair.png` as the replacement homepage cover. The original transparent PNG is preserved without image editing. This cover change does not replace the case-study photography.
+
+## ALTER cover — October 23, 2026
+
+Tyler supplied `ChatGPT Image Oct 23, 2026, 02_31_07 PM.png` as the selected transparent replacement for the ALTER homepage cover. The supplied PNG is preserved without further image editing. The case-study photography is unchanged.
