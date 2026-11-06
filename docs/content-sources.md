@@ -36,6 +36,8 @@ Tyler supplied the Studio III folder for a new case study. The page uses `FA 26_
 - Photos are extracted from embedded PDF images, with existing transparency preserved and responsive WebP copies generated. The booklet's alternating print-spread orientation is not carried into the webpage. The asset manifest records each PDF page.
 - The separate Monomania chair-repair project is not included in the Nucite case study; the small repair-component casting is part of Nucite's documented object studies.
 
+On November 6, 2026, Tyler requested more of the black tiles near the end and a return to the opening hero. The closing direction now pairs the existing page-16 surface image with a clearly captioned, enlarged detail of that same tile, then repeats the page-18 tray application image at full page width. The enlargement is a CSS presentation crop; the source image is unchanged. The page-16 embedded images are duplicate copies, so they are not described as separate tile samples. The page ends on the object application rather than the earlier experiments.
+
 ## Editorial redesign — September 29
 
 All five case studies now follow the same format: a clean opening image, compact project facts, and numbered narrative sections supported by individual photographs or drawings. Full presentation boards are removed from the pavilion page. The revised presentation separates final objects, prototypes, drawings, and proposals through captions rather than treating every image as a finished product.

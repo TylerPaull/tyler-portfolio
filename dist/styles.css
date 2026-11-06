@@ -116,3 +116,6 @@ a.experience-cta:hover,a.experience-cta:focus-visible,.experience-card:hover .ex
 /* Supplied transparent cover: give the complete chair room on white. */
 .chair-cover.chair-cutout{background:#fff}
 .chair-cover.chair-cutout>img{padding:clamp(20px,3vw,48px)}
+.nucite-tile-gallery a{overflow:hidden}
+.nucite-tile-gallery img{aspect-ratio:1;object-fit:cover}
+.nucite-tile-gallery .surface-detail img{transform:scale(1.8)}
