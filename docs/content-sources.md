@@ -62,6 +62,8 @@ All five case studies now follow the same format: a clean opening image, compact
 
 Tyler clarified that the small pencil model must not be the main photograph. The opening image should show the actual full-size piece; any small model can serve only as clearly labeled process evidence. The final opening uses the full-size chair photograph from the original BARE portfolio with its background removed. The comparison retains both unedited full-size photographs. Rejected model cutouts are not published. Background-edit prompts and deployed filenames are recorded in [visual-source-notes.md](visual-source-notes.md).
 
+On November 9, 2026, Tyler requested a clearer BARE sequence and removal of the image labeled “PREVIOUS ITERATIONS.” The page no longer displays `portmanteau-5-*` or the corresponding early-iteration copy. The approved full-size hero now sits beside a brief project introduction and section links. Four sections follow: transformation with the looping animation, current geometry with plan/elevation drawings, fabrication with the exploded assembly and cut plan, and the finished piece with the chair/bench comparison. Each finished photograph appears only once, in that closing comparison. Source files remain unchanged.
+
 ## Balance floor-plan cover — October 4, 2026
 
 Tyler supplied `XEROX.pdf` and identified its drawing as his floor plan. The one-page source replaces the axonometric cover on the homepage and Balance case study. Faithful PDF rendering trims empty margins and provides landscape and upright variants without redrawing, recoloring, or changing the plan. The cover links to the full upright image. Crop coordinates, source checksum and image dimensions are recorded in `asset-manifest.json`.

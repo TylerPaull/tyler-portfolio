@@ -119,3 +119,12 @@ a.experience-cta:hover,a.experience-cta:focus-visible,.experience-card:hover .ex
 .nucite-tile-gallery a{overflow:hidden}
 .nucite-tile-gallery img{aspect-ratio:1;object-fit:cover}
 .nucite-tile-gallery .surface-detail img{transform:scale(1.8)}
+
+/* BARE: one narrative sequence, with drawings grouped by purpose. */
+.bare-opening .chair-hero img{height:clamp(350px,36vw,520px)}
+.bare-case .bare-drawing-gallery{grid-column:1/-1;margin-top:0}
+.bare-case .bare-drawing-gallery .drawing-download{display:inline-block;padding:0;background:transparent}
+.bare-fabrication-gallery figure>a{height:100%;display:grid;place-items:center}
+.bare-fabrication-gallery figure{display:flex;flex-direction:column}
+.bare-fabrication-gallery img{max-height:560px;width:100%;object-fit:contain}
+@media(max-width:560px){.bare-opening .chair-hero img{height:auto;max-height:440px}.bare-fabrication-gallery img{max-height:none}}
