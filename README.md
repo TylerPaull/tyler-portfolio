@@ -17,7 +17,7 @@ Initial publication verified September 28, 2026 (America/Chicago). The September
 - ALTER follows a damaged Monobloc chair from condition assessment through a revised repair plan and material studies to the photographed repair. The revised plan connects the arms and back with plywood and oak dowels; structural validation is not claimed.
 - Butterfly Streetcar Pavilion uses six standalone drawings extracted from an original vector PDF, followed by atmosphere renderings. Full presentation boards are removed. The original studio board establishes the corrected date, Spring 2026.
 - Ostra pairs individual object photographs with extracted geometry, cardboard-prototype, and assembly studies, making the design sequence readable without full presentation sheets.
-- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation autoplays muted and loops continuously, with controls available to pause it. A CNC cut plan and exploded assembly drawing add construction detail; both drawings open at full resolution.
+- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation autoplays muted and loops continuously without a native playback overlay, as requested by Tyler. A CNC cut plan and exploded assembly drawing add construction detail; both drawings open at full resolution.
 - About page with a real portrait, verified background, internship experience, tools, and email contact.
 - Mobile layouts, meaningful headings, skip navigation, visible keyboard focus, reduced-motion support, and responsive WebP images.
 
