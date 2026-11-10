@@ -35,13 +35,14 @@ Open `http://localhost:4173/`. Refresh after editing.
 
 ## Edit and check
 
-The `dist/` folder contains the complete website. Edit its HTML files for copy and page structure, `styles.css` for layout, and `site.js` for the BARE comparison. Add optimized assets to `dist/assets/`; keep `src`, `srcset`, `sizes`, dimensions, and alternative text consistent.
+The `dist/` folder contains the complete website. Edit `dist/index.html` for the homepage and `dist/<page>/index.html` for other pages (for example, `dist/bare/index.html`). The old root-level files such as `dist/bare.html` are compatibility redirects, not the page content. Edit `styles.css` for layout and `site.js` for the BARE comparison and URL normalization. Add optimized assets to `dist/assets/`; keep `src`, `srcset`, `sizes`, dimensions, and alternative text consistent.
 
 ```sh
 python3 scripts/check_site.py
+python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
-The check verifies all local links, image variants, fragment targets, descriptive metadata, a single main heading per page, and image alternatives/dimensions. Browser testing is also necessary. See [the audit](docs/assignment-audit.md).
+The check recursively verifies all local links, directory routes, image variants, fragment targets, descriptive metadata, a single main heading per page, and image alternatives/dimensions. Focused routing tests cover nested pages and broken links. Browser testing is also necessary. See [the audit](docs/assignment-audit.md).
 
 ## GitHub Pages publication
 
@@ -55,7 +56,15 @@ After reviewing and committing changes:
 
 This checks the site, pushes `main`, and publishes `dist/` to `gh-pages`. It requires Git, its standard subtree command, and authenticated access to this repository. No force push is used. GitHub runs its Pages deployment after the branch updates; wait for success and check the public site.
 
-The custom domain is `tylerpauldesg.com`, preserved in `dist/CNAME`. Keep that file when publishing. The recovery links in `dist/404.html` and the `BASE` in `scripts/check_site.py` use `/` for the custom domain. Normal pages use relative links. If domain settings are edited on GitHub and create a commit on `gh-pages`, incorporate that change into `dist/` before publishing; do not force-push over it.
+The custom domain is `tylerpauldesg.com`, preserved in `dist/CNAME`. Keep that file when publishing. The recovery links and assets in `dist/404.html` use root-relative paths because that page can be served at any missing URL. Normal pages use relative links. If domain settings are edited on GitHub and create a commit on `gh-pages`, incorporate that change into `dist/` before publishing; do not force-push over it.
+
+## Clean page addresses
+
+Pages use directory URLs such as `/bare/`, `/nucite/`, `/about/`, and `/laurel/`, each served from its own `index.html`. All internal navigation uses these addresses. The page structure is compatible with GitHub Pages and the local preview server; no server rewrite configuration is needed.
+
+The old `.html` addresses remain as small redirect pages. Their JavaScript redirects preserve query strings and section fragments; a no-JavaScript refresh and a visible link provide a fallback. Both real pages and redirects declare the clean URL as canonical. Explicit `/index.html` addresses are normalized in the browser without reloading. Direct `file:` previews retain filenames, and JavaScript adjusts their directory links to open the local `index.html`; use the local server to preview public URL behavior.
+
+When adding a project, create `dist/<slug>/index.html`, use `../` for shared assets and sibling routes, and add its homepage link. When changing shared JavaScript or CSS, update the corresponding version query in the real pages so existing visitors receive the latest file.
 
 ## How the files work
 
