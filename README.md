@@ -1,83 +1,54 @@
-# Tyler Paul Lipman — design portfolio
+# Tyler Paul Lipman - design portfolio
 
-A portfolio of furniture, lighting, materials, and spatial design by Tyler Paul Lipman, a Tulane University design student. Built with AI assistance for the September 29, 2026 portfolio assignment, revised through the October 8 final review, and maintained in this same repository as new work develops.
+Live: [tylerpauldesg.com](https://tylerpauldesg.com/)
 
-**Live site:** [tylerpauldesg.com](https://tylerpauldesg.com/)
+Repository: [TylerPaull/tyler-portfolio](https://github.com/TylerPaull/tyler-portfolio)
 
-**Public repository:** [TylerPaull/tyler-portfolio](https://github.com/TylerPaull/tyler-portfolio)
+## Current site
 
-Initial publication verified September 28, 2026 (America/Chicago). The September 29 editorial redesign is documented below; its final visual checks and publication verification are recorded separately in [the audit](docs/assignment-audit.md).
+On November 17, 2026, Tyler supplied a replacement portfolio made with Claude and requested that it replace the prior design. The supplied 15 pages use inline styles and Google Fonts. Their visible copy, layout styles, captions, alternative text and 91 media files are preserved. The original handoff instructions are in [README.txt](docs/claude-handoff/README.txt); the [import manifest](docs/claude-handoff/import-manifest.json) records the archive, routes and file checksums.
 
-## The site
+The site includes seven studio projects, an About page, and a Laurel Group overview with five internship case studies. It is static HTML and requires no package installation or build step. Google Fonts supplies Bricolage Grotesque, Inter and IBM Plex Mono.
 
-- Selected-work homepage with seven studio projects: BARE, Ostra, Nucite, Butterfly Streetcar Pavilion, The Straight Story, ALTER, and Balance.
-- A professional-experience overview for The Laurel Group links to five process case studies: Poolside Terrace, Layered Arrival, Garden dining, Pergola terrace, and Entry materials. They connect site references, supplied plans, proposal analysis, annotated studies, and visualizations, with Tyler’s confirmed Creative Design Intern title and clear team credits. Home and About link to the overview.
-- Seven studio case studies use a clean opening image followed by numbered sections that explain the idea, development, and outcome or current direction.
-- The Straight Story follows a replacement woven seat and back for an existing cantilever chair frame, with process photographs of stitching and assembly. Its initial repair-focused proposal is distinguished from the photographed red-and-white stitched iteration; comfort and load performance are not presented as tested results.
-- ALTER follows a damaged Monobloc chair from condition assessment through a revised repair plan and material studies to the photographed repair. The revised plan connects the arms and back with plywood and oak dowels; structural validation is not claimed.
-- Butterfly Streetcar Pavilion uses six standalone drawings extracted from an original vector PDF, followed by atmosphere renderings. Full presentation boards are removed. The original studio board establishes the corrected date, Spring 2026.
-- Ostra pairs individual object photographs with extracted geometry, cardboard-prototype, and assembly studies, making the design sequence readable without full presentation sheets.
-- A bench/chair comparison for BARE that works with pointer, touch, and keyboard. Without JavaScript, both photographs remain visible. A supplied rotation animation autoplays muted and loops continuously without a native playback overlay, as requested by Tyler. A CNC cut plan and exploded assembly drawing add construction detail; both drawings open at full resolution.
-- About page with a real portrait, verified background, internship experience, tools, and email contact.
-- Mobile layouts, meaningful headings, skip navigation, visible keyboard focus, reduced-motion support, and responsive WebP images.
+## Hosting integration
 
-Balance is labeled **in progress**. The pavilion is presented as a design proposal. The site does not claim that these concepts have been built or tested.
+The established clean URLs remain in use: `/bare/`, `/ostra/`, `/nucite/`, `/butterfly/`, `/balance/`, `/straight-story/`, `/alter/`, `/laurel/` and its five project routes, plus `/about/`. The old `.html` URLs redirect with their query strings and fragments intact. The handoff's longer page names also redirect to the established routes.
 
-## Preview locally
+Integration adds page descriptions, canonical/Open Graph metadata, intrinsic image dimensions, a main landmark and a keyboard skip link. A small local `site.js` preserves old section anchors, normalizes explicit `index.html` URLs, and supports direct local-file previews. The design and page content remain usable without JavaScript. BARE retains muted inline autoplay and looping without native hover controls, following Tyler's earlier request.
 
-No package installation or build step is required. With Python 3 installed, run this from the repository:
+`dist/CNAME` preserves the custom domain, and `.nojekyll` publishes the static files directly. The 404 page provides recovery links in the replacement site's typography and colors.
+
+## Edit and preview
+
+Edit `dist/index.html` for Home and `dist/<page>/index.html` for other real pages. Images and the BARE video are in `dist/images/`. Root-level `.html` files and the five alternate-name folders are redirect stubs, not source pages. Styles are inline in each real page.
+
+From this repository:
 
 ```sh
 python3 -m http.server 4173 --directory dist
 ```
 
-Open `http://localhost:4173/`. Refresh after editing.
+Open `http://localhost:4173/`. Refresh after changes. Use the local server to check the public clean URL behavior.
 
-## Edit and check
-
-The `dist/` folder contains the complete website. Edit `dist/index.html` for the homepage and `dist/<page>/index.html` for other pages (for example, `dist/bare/index.html`). The old root-level files such as `dist/bare.html` are compatibility redirects, not the page content. Edit `styles.css` for layout and `site.js` for the BARE comparison and URL normalization. Add optimized assets to `dist/assets/`; keep `src`, `srcset`, `sizes`, dimensions, and alternative text consistent.
+## Check and publish
 
 ```sh
 python3 scripts/check_site.py
 python3 -m unittest discover -s scripts -p 'test_*.py'
 ```
 
-The check recursively verifies all local links, directory routes, image variants, fragment targets, descriptive metadata, a single main heading per page, and image alternatives/dimensions. Focused routing tests cover nested pages and broken links. Browser testing is also necessary. See [the audit](docs/assignment-audit.md).
+The checker verifies local routes, assets, fragments, metadata, headings and image attributes. Also check desktop/mobile layouts, keyboard navigation, the BARE video, and legacy redirects in a browser. When changing `site.js`, update its version query in all real pages.
 
-## GitHub Pages publication
-
-`main` preserves the full source and documentation. `gh-pages` contains only the files from `dist/`, with history derived from the same commits. In **Settings → Pages**, choose **Deploy from a branch → gh-pages → /(root)**. The `.nojekyll` file allows the static files to publish directly.
-
-After reviewing and committing changes:
+After reviewing and committing:
 
 ```sh
 ./scripts/publish.sh
 ```
 
-This checks the site, pushes `main`, and publishes `dist/` to `gh-pages`. It requires Git, its standard subtree command, and authenticated access to this repository. No force push is used. GitHub runs its Pages deployment after the branch updates; wait for success and check the public site.
+`main` retains the full repository and documentation. `gh-pages` publishes only `dist/` through Git subtree, without a force push. GitHub Pages uses `gh-pages` at its root. Wait for the deployment and verify the custom domain after publishing.
 
-The custom domain is `tylerpauldesg.com`, preserved in `dist/CNAME`. Keep that file when publishing. The recovery links and assets in `dist/404.html` use root-relative paths because that page can be served at any missing URL. Normal pages use relative links. If domain settings are edited on GitHub and create a commit on `gh-pages`, incorporate that change into `dist/` before publishing; do not force-push over it.
+## Credits and history
 
-## Clean page addresses
+Tyler supplied the content and approved the replacement design. Claude produced the supplied replacement website. Codex adapted its routing and hosting, preserved prior link/video behavior, added nonvisual metadata/accessibility support, and verified the integration. The two approved BARE/Ostra hero cutouts were made earlier with AI-assisted background removal; they are reused in the handoff, not newly generated by this import.
 
-Pages use directory URLs such as `/bare/`, `/nucite/`, `/about/`, and `/laurel/`, each served from its own `index.html`. All internal navigation uses these addresses. The page structure is compatible with GitHub Pages and the local preview server; no server rewrite configuration is needed.
-
-The old `.html` addresses remain as small redirect pages. Their JavaScript redirects preserve query strings and section fragments; a no-JavaScript refresh and a visible link provide a fallback. Both real pages and redirects declare the clean URL as canonical. Explicit `/index.html` addresses are normalized in the browser without reloading. Direct `file:` previews retain filenames, and JavaScript adjusts their directory links to open the local `index.html`; use the local server to preview public URL behavior.
-
-When adding a project, create `dist/<slug>/index.html`, use `../` for shared assets and sibling routes, and add its homepage link. When changing shared JavaScript or CSS, update the corresponding version query in the real pages so existing visitors receive the latest file.
-
-## How the files work
-
-HTML supplies content and structure. CSS controls the editorial layout and adapts it to smaller screens. JavaScript switches between the two BARE photographs. Git records meaningful changes; GitHub stores the repository; GitHub Pages serves the files as the public website.
-
-## Content, credits, and AI use
-
-Project descriptions and imagery were gathered from [Tyler's existing portfolio](https://www.tylerpauldesg.com/) and original project files supplied by Tyler, reviewed, and reorganized into concise case studies. The visual design was developed separately from the original Framer template. See [content sources](docs/content-sources.md) and [the image manifest](docs/asset-manifest.json). The [pavilion drawing record](docs/pavilion-drawing-sources.json) and [Ostra image record](docs/ostra-image-sources.json) preserve source filenames, page or crop coordinates, and extraction methods.
-
-Codex assisted with planning, source review, editorial rewriting, HTML/CSS/JavaScript, image optimization, accessibility checks, repository preparation, and publication. A second AI review checked claims and source-level accessibility. Nucite uses the corrected Studio III OSM booklet for its project name, process, sample quantities, and imagery. The pavilion drawings and Ostra studies were extracted from Tyler's original files without redrawing their geometry. The full-size BARE chair and Ostra opening photographs received AI background removal; original photographs remain in their case studies. See [image sources and edit prompts](docs/visual-source-notes.md). The current headshot was supplied directly by Tyler; its transparency is preserved. AI-generated commits are attributed to `Codex <codex@localhost>` rather than falsely attributed to Tyler.
-
-Portfolio artwork and photographs remain the property of their respective owners. This repository does not grant a blanket license to reuse them.
-
-## Remaining content
-
-A current résumé has not yet been supplied. Add the real PDF and a clearly labeled download link when available. Add more specific project-role credits and reflections when verified.
+The original portfolio design and its assets remain recoverable in Git history, most recently at `d2132ca`. Historical source records and the original assignment audit are in [docs/legacy-original-site](docs/legacy-original-site); their asset paths and layout descriptions refer to that earlier version. Artwork and photographs remain their respective owners' property.

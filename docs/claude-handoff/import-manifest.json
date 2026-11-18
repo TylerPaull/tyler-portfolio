@@ -1,0 +1,637 @@
+{
+  "pages": [
+    {
+      "source": "index.html",
+      "route": "/",
+      "file": "index.html",
+      "source_sha256": "a14619bfaf90ca101a5f20e5ec66a124fdbfe7fb49cac85a044735e8449418d7",
+      "published_sha256": "e8622d538980c4d7f9d4b0a40f21c8d12ae0dba25c3b18546aa868cf1154e01d"
+    },
+    {
+      "source": "straight-story.html",
+      "route": "/straight-story/",
+      "file": "straight-story/index.html",
+      "source_sha256": "5c26f47034a03da822ab1ed9a3ed0cb1dd3abeba6679c3aa9467a96fc0515b34",
+      "published_sha256": "407d0970120fd2230d6c883e674b15f46f5710729de59cf8f22e5bfcc221d847"
+    },
+    {
+      "source": "alter.html",
+      "route": "/alter/",
+      "file": "alter/index.html",
+      "source_sha256": "5e1bc04a49571d3462291e6386264985538b180125e217af48ef15c45eab2b6b",
+      "published_sha256": "2f90944be371315902fba36b78ed678c33ba05691a6450b49de4d3c6b18460dc"
+    },
+    {
+      "source": "bare.html",
+      "route": "/bare/",
+      "file": "bare/index.html",
+      "source_sha256": "98ba9476d88df7c6fc7527f8f057e0f71235a4af30c3dea4dc6647966b200217",
+      "published_sha256": "20117c982cea195cdc6ee8d8da67e0243cd7bafee4c425b0aea6d2d826d94051"
+    },
+    {
+      "source": "ostra.html",
+      "route": "/ostra/",
+      "file": "ostra/index.html",
+      "source_sha256": "ec800d12a65f4c2cdb20f3725e767cb1ec1f87f58c4ca9cbcb65cf11f442ee7c",
+      "published_sha256": "d8b4dcc34cc18e02c691223df87fad539f2af62fa822489c981d34869a108f94"
+    },
+    {
+      "source": "nucite.html",
+      "route": "/nucite/",
+      "file": "nucite/index.html",
+      "source_sha256": "a67d3d5882c36972735de226441de8bc66591bdcf0f2e2f88160543f75df23db",
+      "published_sha256": "1d4ece5e1516f42302ed89665b6b3020f7bff51d693ee2b152ee0e3723039941"
+    },
+    {
+      "source": "butterfly-streetcar-pavilion.html",
+      "route": "/butterfly/",
+      "file": "butterfly/index.html",
+      "source_sha256": "6db47276da6a4ebe274f49310ebf87f4ab36f776438e152bda6c6779cce4d601",
+      "published_sha256": "fe6fd4fecfcbb9e570c11cce09a535e668dbfdb2042cef9c944e7e9c564c7916"
+    },
+    {
+      "source": "balance.html",
+      "route": "/balance/",
+      "file": "balance/index.html",
+      "source_sha256": "0ac95e7dcca9ab0c80e3c770f06e852536ec2c119dcdb2595b4f96f9278ba8cc",
+      "published_sha256": "3a1399eae4233560d789c1f0f2563782f67efb94de77cb13f7ae782ba1605c9b"
+    },
+    {
+      "source": "laurel-group.html",
+      "route": "/laurel/",
+      "file": "laurel/index.html",
+      "source_sha256": "5a8bbc27704c796b8345d3931a2d75d3c499dd061a3cb3bb8e235fc4eb43ee6d",
+      "published_sha256": "4fa47ef8d4385dd1e034156bae599483711db2086598d9efed932926e84c20dd"
+    },
+    {
+      "source": "laurel-poolside-terrace.html",
+      "route": "/laurel-poolside-terrace/",
+      "file": "laurel-poolside-terrace/index.html",
+      "source_sha256": "45597131d4b0f7e3afb4362540a88b9e01efd5e57fb96940a4389c71a6f7ded7",
+      "published_sha256": "2c581b46f383d1eab00dfef22d88ef99e48e67c1bdae645028d9866810d978e5"
+    },
+    {
+      "source": "laurel-layered-arrival.html",
+      "route": "/laurel-layered-arrival/",
+      "file": "laurel-layered-arrival/index.html",
+      "source_sha256": "89204b8f457d7bada3e9bd39018f03d875fa7a1561e0365800d0c68023b509db",
+      "published_sha256": "6758f96abcfa4c39d8657eaf82ace8fc929ba2f64c5b41fde2dba5943dbc044d"
+    },
+    {
+      "source": "laurel-garden-dining.html",
+      "route": "/laurel-garden/",
+      "file": "laurel-garden/index.html",
+      "source_sha256": "353cf5738ca2a591ca89cc232a361effb78c91b6ae687acd4a6d914f8ab418a8",
+      "published_sha256": "9ed35c7ce02448060033f96b11c38133fb781eed4b2cf7603602da917228eb2b"
+    },
+    {
+      "source": "laurel-pergola-terrace.html",
+      "route": "/laurel-pergola/",
+      "file": "laurel-pergola/index.html",
+      "source_sha256": "31eb28b0665bd43cf23c4715eb1327966e884502e00bd2181b4d7253f4d9927c",
+      "published_sha256": "d72bf3356947b3ee602dba5e682c2714a3933fbd457a1246638a4e47f9384572"
+    },
+    {
+      "source": "laurel-entry-materials.html",
+      "route": "/laurel-entry/",
+      "file": "laurel-entry/index.html",
+      "source_sha256": "c59354b77fa50b278c5196ad09a5ad6312c587bb278e583cfad0014bad32ac33",
+      "published_sha256": "e815ee487354ce86e969850eaf3d4dd36a915a7a7e6a294ec7e76cb89d61b5fa"
+    },
+    {
+      "source": "about.html",
+      "route": "/about/",
+      "file": "about/index.html",
+      "source_sha256": "613d4a7c36411068cee44719c176f6039469f259af5cbc34d3d520fb95442692",
+      "published_sha256": "42b4746322fe530905892be6bd5fa09a95c9e6196b62d0cbf1ff44cc5bb9a0bc"
+    }
+  ],
+  "fragment_aliases": {
+    "ostra": {
+      "section-1": "s1",
+      "section-2": "s2",
+      "section-3": "s3",
+      "section-4": "s4"
+    },
+    "balance": {
+      "section-1": "s1",
+      "section-2": "s2",
+      "section-3": "s3",
+      "section-4": "s4"
+    },
+    "butterfly": {
+      "section-1": "s1",
+      "section-2": "s2",
+      "section-3": "s3",
+      "section-4": "s4",
+      "section-5": "s5"
+    },
+    "alter": {
+      "section-01": "s1",
+      "section-02": "s2",
+      "section-03": "s3",
+      "section-04": "s4"
+    },
+    "straight-story": {
+      "section-01": "s1",
+      "section-02": "s2",
+      "section-03": "s3"
+    },
+    "laurel-poolside-terrace": {
+      "process-01": "s1",
+      "process-02": "s2",
+      "process-03": "s3",
+      "process-04": "s4"
+    },
+    "laurel-layered-arrival": {
+      "process-01": "s1",
+      "process-02": "s2",
+      "process-03": "s3"
+    },
+    "laurel-garden": {
+      "process-01": "s1",
+      "process-02": "s2",
+      "process-03": "s3"
+    },
+    "laurel-pergola": {
+      "process-01": "s1",
+      "process-02": "s2",
+      "process-03": "s3"
+    },
+    "laurel-entry": {
+      "process-01": "s1",
+      "process-02": "s2",
+      "process-03": "s3"
+    },
+    "bare": {
+      "section-1": "project-intro",
+      "section-2": "s1",
+      "section-3": "s2",
+      "section-4": "s3",
+      "section-5": "s4"
+    },
+    "nucite": {
+      "final-direction": "s5"
+    }
+  },
+  "script_version": "a6e4f4e6",
+  "archive": "tylerpaul-portfolio.zip",
+  "archive_sha256": "6ad41c37b34fe6b1fecccde716906dccb88d7df70ea4ccb074ad549ee452b9a3",
+  "media": [
+    {
+      "file": "images/alter-after-1025.webp",
+      "bytes": 54202,
+      "sha256": "17392e2772b446db1a1e9fd926e15e3ebb917d500b80b89a1a4a689144bf696c"
+    },
+    {
+      "file": "images/alter-assessment-1020.webp",
+      "bytes": 29252,
+      "sha256": "a8370e819b187eda93eb96752e1a6f5328f0af781fae52e4d015cc60ee4da5de"
+    },
+    {
+      "file": "images/alter-before-924.webp",
+      "bytes": 24876,
+      "sha256": "e5d8449dd0c2865d6640dcc6f9dfa92c8effae6b1bd61fa79ad75702022ff271"
+    },
+    {
+      "file": "images/alter-chair-515.webp",
+      "bytes": 12072,
+      "sha256": "b6d031738708c6e5386511fe722c15e59b794c3e394a386856754ff4093644ab"
+    },
+    {
+      "file": "images/alter-materials-1065.webp",
+      "bytes": 24874,
+      "sha256": "4caf53783e274ed893d622dc52e9b9c28fad85d26481c18a97c55af679a05bd0"
+    },
+    {
+      "file": "images/alter-plan-2047.webp",
+      "bytes": 37220,
+      "sha256": "fa40cf3b4c89cc12de94d3cfdf75bc036e294782abba032bad4ca168e80261c1"
+    },
+    {
+      "file": "images/arrival-gate.jpg",
+      "bytes": 650387,
+      "sha256": "8b43d36c33bd9280a768eb600973043fb65f4d2ced0e249727d5594bcf8943dc"
+    },
+    {
+      "file": "images/arrival-hero.jpg",
+      "bytes": 465149,
+      "sha256": "268b82e0c51f76a4f65c7a3b7d781947bf9f8d4189f6648db906bbdbacbb486d"
+    },
+    {
+      "file": "images/arrival-plan.jpg",
+      "bytes": 612094,
+      "sha256": "bfa1b2adeb0a2d2dad77816c8e9ec8f01b35ae1caad535b1738989a1ae125e90"
+    },
+    {
+      "file": "images/arrival-planting-ov.jpg",
+      "bytes": 641974,
+      "sha256": "fb18da62a91c19523ad6f79eb0a5741651f4bf21c37c40f17fede876ba979d44"
+    },
+    {
+      "file": "images/arrival-planting.jpg",
+      "bytes": 640490,
+      "sha256": "ac7cd2b7ca80f003deb7540ab24d2833da2022b194545638bfb3fcd92288505b"
+    },
+    {
+      "file": "images/arrival-site-gate.jpg",
+      "bytes": 539163,
+      "sha256": "d7b1ca4e4d8fa4771703259756d7032b257150900b85c598e34b2062a2aa3d4c"
+    },
+    {
+      "file": "images/arrival-site.jpg",
+      "bytes": 463179,
+      "sha256": "0bb6cd3e66d15249beca9f4be8d2bf564a429e460c2f7a49be38676c37754c7d"
+    },
+    {
+      "file": "images/bal-corridor.jpg",
+      "bytes": 667943,
+      "sha256": "18e87e673266147794540369a177b3c150bacad7c46a109a51934ffff18fb4a7"
+    },
+    {
+      "file": "images/bal-gather.jpg",
+      "bytes": 444723,
+      "sha256": "0338494d56982db38b93e0cdcad00cf9c438cbc1db258ee5a7c5d4f62c08651f"
+    },
+    {
+      "file": "images/bal-plan.jpg",
+      "bytes": 499005,
+      "sha256": "d4a9c3740465c854cac271487100a2b3dabc916c11a0498e722c50feee8fddd8"
+    },
+    {
+      "file": "images/bal-reconnect.jpg",
+      "bytes": 381384,
+      "sha256": "8d1c2988083f5a0114f25c0bcfbad093549476bc44236119ddf82fffa11027b9"
+    },
+    {
+      "file": "images/bal-retreat.jpg",
+      "bytes": 375175,
+      "sha256": "c88291ed1e5d8a15f0466d5c1ce82132854ae61512b7a59d778895c67a53a96d"
+    },
+    {
+      "file": "images/bare-bench.jpg",
+      "bytes": 299198,
+      "sha256": "babaee31136f09cd430c53a05d8cea860844f2fbdaf88441cb748a34cbc6deaf"
+    },
+    {
+      "file": "images/bare-chair.jpg",
+      "bytes": 301066,
+      "sha256": "86904601f37764ccb36ac4efb985fd8a9813135d0da4520a03da1ca5befb1201"
+    },
+    {
+      "file": "images/bare-cutplan.jpg",
+      "bytes": 282946,
+      "sha256": "df126750efb37e86a4dbdc2d9ed88bd24381b04be9ddb1efe65ca6b1bc97b6df"
+    },
+    {
+      "file": "images/bare-elev.jpg",
+      "bytes": 65738,
+      "sha256": "988de9e86742da82250d8519fa8ec881239f1d6e58e7195b97c48275f1129d90"
+    },
+    {
+      "file": "images/bare-exploded.jpg",
+      "bytes": 364285,
+      "sha256": "bd346dcd212f8ed21b276deedb9e95cf14272027efc7484b191d6f2f4fd678f0"
+    },
+    {
+      "file": "images/bare-hero.png",
+      "bytes": 904678,
+      "sha256": "00435fc3e401ee7fad800a0454d092ddbc4008941115f383daf6bccd4341c9d5"
+    },
+    {
+      "file": "images/bare-plan.jpg",
+      "bytes": 100909,
+      "sha256": "9d175068f41a591950b62b4bf65d0713cb565ee775dc77b73c4568ce14bdb202"
+    },
+    {
+      "file": "images/bare-poster.jpg",
+      "bytes": 46271,
+      "sha256": "20bff6df3d8911b7f690f0bb45a44e47b4715e71bcbe3755bc02ac056631a368"
+    },
+    {
+      "file": "images/bare-rotation.mp4",
+      "bytes": 686514,
+      "sha256": "7cbc6dc2778b7bd670eb491535d81ed721fb9af27f11d61d5e264ffa7aab8aee"
+    },
+    {
+      "file": "images/bf-axon.jpg",
+      "bytes": 260525,
+      "sha256": "5c25a84b958718eae0400188359e9a3825e5889b91532423fa8e50023825783b"
+    },
+    {
+      "file": "images/bf-ext.jpg",
+      "bytes": 679109,
+      "sha256": "3379520f54a8e4d91f9a8c4049f8523b5aef9a3ef15e29e1ea098ea323337723"
+    },
+    {
+      "file": "images/bf-ground.jpg",
+      "bytes": 164282,
+      "sha256": "51105a6c4ae971779f80c60c344d8e8edff85ff0a7475c86684b2174ad80028c"
+    },
+    {
+      "file": "images/bf-int.jpg",
+      "bytes": 406069,
+      "sha256": "4c02a161385df812c21a6aa2ea70a0d407c5b5f7da80ffbf7af58cfccf6183db"
+    },
+    {
+      "file": "images/bf-roof.jpg",
+      "bytes": 145613,
+      "sha256": "d7746373e51a12ec5ffff03ebe2e95c10fab145af3242964345ae2eca10b01fc"
+    },
+    {
+      "file": "images/bf-sec-b.jpg",
+      "bytes": 237483,
+      "sha256": "a61c1e362a1ec4f67729d1f8109574184535c6a3c4ff9e8f1f21935a3f74cc60"
+    },
+    {
+      "file": "images/bf-sec-c.jpg",
+      "bytes": 278585,
+      "sha256": "ae6ed4f46c0ec0684b52d154944670301e195500d486aeef4bd9d5462246d32b"
+    },
+    {
+      "file": "images/bf-water.jpg",
+      "bytes": 131879,
+      "sha256": "f1cb70a6d0b5e54e794c0d785c438eec74fb21c6b2dd32060a3d699f25abb8db"
+    },
+    {
+      "file": "images/cover-alter.png",
+      "bytes": 800704,
+      "sha256": "3fc3b82a4da5f0f496274df9c54027a4e3c3661bf4d4ab139a9112c835c8cddb"
+    },
+    {
+      "file": "images/cover-ss.png",
+      "bytes": 1110705,
+      "sha256": "3114adeca57ec3b7a97fa3477e6d5be5e60d7f80871ab1a017f8ef27a882960e"
+    },
+    {
+      "file": "images/entry-brick-detail.jpg",
+      "bytes": 296856,
+      "sha256": "fe83221c6f0124b9a100367039edee7ee07e3b9be12347e23e2b153d94d2e3f9"
+    },
+    {
+      "file": "images/entry-brick.jpg",
+      "bytes": 446799,
+      "sha256": "83998192e2e92b4c94de2ba6ba145665e08483cbafe4d8755f5e951571970919"
+    },
+    {
+      "file": "images/entry-plan.jpg",
+      "bytes": 138519,
+      "sha256": "7d2e0411b8a88fc50f3ae90178b1b8d4ce9f0887b400d2df4da9e2f285dd5cbc"
+    },
+    {
+      "file": "images/entry-site.jpg",
+      "bytes": 942463,
+      "sha256": "bba976bc43a5a1bfdc008cb1b18b84b120b3a34e169ec732e025003a31a711a8"
+    },
+    {
+      "file": "images/entry-stone-detail.jpg",
+      "bytes": 262631,
+      "sha256": "fcc3eaba013582a8410a25000cf62d30d5cebec79ef68c35305ad6100bc7ce8c"
+    },
+    {
+      "file": "images/entry-stone.jpg",
+      "bytes": 646404,
+      "sha256": "49d3c8f6f73d908df2a36a7dd052d2d6839d7f14b9d8ffc71a12792a5ccd80b1"
+    },
+    {
+      "file": "images/garden-hero.jpg",
+      "bytes": 982308,
+      "sha256": "adae7e7fcdf7cd8fdbf2f7f123246bc519060248a973be4ed263d026ed72fe7d"
+    },
+    {
+      "file": "images/garden-plan.jpg",
+      "bytes": 128215,
+      "sha256": "d6ff7a87cc39c78a26d856397e11c006393d8894a7629a56d04b1f8fc81240c9"
+    },
+    {
+      "file": "images/garden-pool-concept.jpg",
+      "bytes": 282813,
+      "sha256": "f84e2a8326a1abaeca77b2ccc6cb4a47d282ed31ca8e17c214d4044b909d884c"
+    },
+    {
+      "file": "images/garden-pool-site.jpg",
+      "bytes": 282308,
+      "sha256": "01022d00c657d9628adee44a03fb4efa335340fcf2513233a7d81b08f17478a4"
+    },
+    {
+      "file": "images/garden-ref.jpg",
+      "bytes": 378260,
+      "sha256": "d3b87d9ba54b68e940530d19602cae6cf003c0a2087071c1e36252bc01be6fb8"
+    },
+    {
+      "file": "images/headshot.png",
+      "bytes": 855318,
+      "sha256": "6f24a2397819d33fe474174563277bcaeab2dbfd0bbbbd877064bce692d7f797"
+    },
+    {
+      "file": "images/la-workflow.jpg",
+      "bytes": 118434,
+      "sha256": "e7296c63198903301806815245808760bcbc1046caa3be9554aa190d20102b6f"
+    },
+    {
+      "file": "images/nucite-casting.jpg",
+      "bytes": 123648,
+      "sha256": "264b80fad7701df3a3f10c5062dde2d1efb0fddaa5f9d86c34c09a634993c587"
+    },
+    {
+      "file": "images/nucite-coarse.jpg",
+      "bytes": 474808,
+      "sha256": "f7a1709eecef50ad764350f395c6b1452226e08033a3b4ed963375217e2b9518"
+    },
+    {
+      "file": "images/nucite-cup.jpg",
+      "bytes": 306112,
+      "sha256": "9aeee501083b6d768bc5a3500edbc164410cb53f491c1863311a5a1c93d170e3"
+    },
+    {
+      "file": "images/nucite-dish.jpg",
+      "bytes": 264226,
+      "sha256": "869d2fee49194b193b3b2b057e555c17c9227eefef66212103010495fad997b3"
+    },
+    {
+      "file": "images/nucite-fine.jpg",
+      "bytes": 610440,
+      "sha256": "b4a725eda59cf3b480128d211e55c0f578a2f2a453a7a82e6be14fbf619b5dba"
+    },
+    {
+      "file": "images/nucite-formwork.jpg",
+      "bytes": 347064,
+      "sha256": "ac95787bfb277830075f154c5d9603eefabe4204f90669acb6dbfd0a9a37c168"
+    },
+    {
+      "file": "images/nucite-medium.jpg",
+      "bytes": 920440,
+      "sha256": "c880fafe602bf99eb6e5a7604f9d65f94b318062283803d8b9d617e77d387787"
+    },
+    {
+      "file": "images/nucite-mixed.jpg",
+      "bytes": 576638,
+      "sha256": "b92b6c3adde10c0ff8b8f7aa7348f51cdeffd2ff91756265d9ca47d71f84a7fb"
+    },
+    {
+      "file": "images/nucite-mixing.jpg",
+      "bytes": 123430,
+      "sha256": "33a3b5901d64edf18f6656d1c373415b67da29e1d302e2a8960b26cc3d08302b"
+    },
+    {
+      "file": "images/nucite-object.jpg",
+      "bytes": 304608,
+      "sha256": "e9a242efbac63f33d45994858d24a3e959c138b239acbdf954af64c09cc9b987"
+    },
+    {
+      "file": "images/nucite-repair.jpg",
+      "bytes": 302859,
+      "sha256": "4220f17dcd040d07619f5fcea05274f3b0a5d07be479d3a16e166d4568acb559"
+    },
+    {
+      "file": "images/nucite-shells.jpg",
+      "bytes": 126807,
+      "sha256": "8fa597823b18a9514bc3dbd5ca5d12c9f9888e573a3af1003c9bcf8165b6bb3e"
+    },
+    {
+      "file": "images/nucite-surface.jpg",
+      "bytes": 683255,
+      "sha256": "704f105336c560dc40e576ef7a4a652531e17e07a1608c5c0e8c63833fb0e640"
+    },
+    {
+      "file": "images/ostra-angle.jpg",
+      "bytes": 89139,
+      "sha256": "cca54b4da32bcdffd8db3de2c21b104b7d2ab7a918142006c8c30164e0298e49"
+    },
+    {
+      "file": "images/ostra-early.jpg",
+      "bytes": 115585,
+      "sha256": "0b254fcdc3d5f2abd9df050c90c50c62c9ae9c4a74489d735585b9a8a87a19ec"
+    },
+    {
+      "file": "images/ostra-hero.png",
+      "bytes": 1428733,
+      "sha256": "439d1aaf70c45f1dbdc4dfec8ed0c81778449cd698cdf92177801694bfa9074f"
+    },
+    {
+      "file": "images/ostra-illum.jpg",
+      "bytes": 166065,
+      "sha256": "4c414c4b10b0b192f6213382f232b46b2fb0477ccdef511b426cbe55fd6695a3"
+    },
+    {
+      "file": "images/ostra-layer.jpg",
+      "bytes": 143881,
+      "sha256": "f86b00f302b5323d2e9be83a06cc2183023ae44b93856bd48aff38755cbe8af7"
+    },
+    {
+      "file": "images/ostra-panel.jpg",
+      "bytes": 207375,
+      "sha256": "eede2fe41b1f2b1235a5bc942046df7884607876ffb6821ce2d55a188a316cba"
+    },
+    {
+      "file": "images/ostra-scales.jpg",
+      "bytes": 154381,
+      "sha256": "df0dc3d084c3bb0d2b19d3cfa398ed67c9c8093d3c9ce7c216b51429fdb328e8"
+    },
+    {
+      "file": "images/pergola-alt.jpg",
+      "bytes": 380686,
+      "sha256": "d1c904486cdea65917dbc02a8cf6ac9e8c980aa0417adb4f314b40c49a83cef1"
+    },
+    {
+      "file": "images/pergola-concept.jpg",
+      "bytes": 460143,
+      "sha256": "de9c4cca6c454a2a418bf4496869c140f08ff131d328b821df5a1a2974036594"
+    },
+    {
+      "file": "images/pergola-plan-ov.jpg",
+      "bytes": 430651,
+      "sha256": "6ee5f25ebdd7a6ef6fc47065b4527522265063bec41d77f225af9f163630fbeb"
+    },
+    {
+      "file": "images/pergola-plan.jpg",
+      "bytes": 425852,
+      "sha256": "ece0b26634854202b1fff5e0cc857a3529f46e4cb14b78d32273e624d43cd4a2"
+    },
+    {
+      "file": "images/pergola-ref.jpg",
+      "bytes": 799390,
+      "sha256": "0206dd65c364235585f8783668172fd0213f99bae2fb1b2b0acc80aa173407b4"
+    },
+    {
+      "file": "images/pool-detail.jpg",
+      "bytes": 480332,
+      "sha256": "278cec0dd756c24ad50e49801db5f10ec1c53b3269389c6599267274c3f63e44"
+    },
+    {
+      "file": "images/pool-gate-concept.jpg",
+      "bytes": 612812,
+      "sha256": "2491ccef150c51fc6601178db5137247f12661e0936c192618e7e086c0479dea"
+    },
+    {
+      "file": "images/pool-gate-site.jpg",
+      "bytes": 163343,
+      "sha256": "47ec131bec826be69ccce41d79bd3dbe90e69d2c9829f44231a917b900c20ea2"
+    },
+    {
+      "file": "images/pool-hero.jpg",
+      "bytes": 445155,
+      "sha256": "7698d5eeca3c5723abced6c0becabe43d7dd789932d538ca1a86d3f571b2c59a"
+    },
+    {
+      "file": "images/pool-markup.jpg",
+      "bytes": 160128,
+      "sha256": "9d52e0154ad14923b5eb384ddb18ce92f7156d46d32e30405f216118b4aadb07"
+    },
+    {
+      "file": "images/pool-oblique.jpg",
+      "bytes": 511973,
+      "sha256": "85db867704149fd0a03419e54199e9b13978331bbbecc8c1021ac3cc3d125ac8"
+    },
+    {
+      "file": "images/pool-plan.jpg",
+      "bytes": 352257,
+      "sha256": "bfc7f430b3c69d456977ba11f592b6f15c3e889a6197cd4e8ca0a85f9ef17445"
+    },
+    {
+      "file": "images/pool-review-ov.jpg",
+      "bytes": 294707,
+      "sha256": "5bf375969d75c1d5aac225337b007dd1a4442a25f002fe07379d1fedcb6ffd0f"
+    },
+    {
+      "file": "images/pool-review.jpg",
+      "bytes": 299016,
+      "sha256": "b9fbab73d2906c6b4518b76efbb4724905d55f0048746f4b96994f7f69638382"
+    },
+    {
+      "file": "images/pool-site.jpg",
+      "bytes": 426640,
+      "sha256": "3763fa2fd18fda96d9b66c35e80b4ebdca52fad194f8ae4d6c10c7d316d2c368"
+    },
+    {
+      "file": "images/ss-detail-back.webp",
+      "bytes": 256814,
+      "sha256": "b4c4fbd2c30e2eaad3e169cbeac097ec0e40471d8e2fd9daa8e7b6a2c5b69bf4"
+    },
+    {
+      "file": "images/ss-detail-seat.webp",
+      "bytes": 184322,
+      "sha256": "1962a84c4e318fe978f8382e77d456592446ce82f16f4cdc66a913fcc71c4340"
+    },
+    {
+      "file": "images/ss-frame.webp",
+      "bytes": 27920,
+      "sha256": "ee89aebd4cabdb84bd378f1cb945420dfde171c4ae0ced9762ed032d6878262b"
+    },
+    {
+      "file": "images/ss-hero.webp",
+      "bytes": 89150,
+      "sha256": "b5bb8c273bd9dbfb08f1c0a29694ec689a9f9d59d47510011a03e5e8700df3d6"
+    },
+    {
+      "file": "images/ss-process.webp",
+      "bytes": 253608,
+      "sha256": "3778eb93ea462df5f8dba40b86fb244d69dbfefbaff93f137cb7befde87fb5ba"
+    },
+    {
+      "file": "images/ss-seat.webp",
+      "bytes": 69666,
+      "sha256": "714461194e3ebb20b6accd78dfd8a98fa47fd70a6d12caf92870b24b4af1756b"
+    }
+  ]
+}
