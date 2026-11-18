@@ -18,6 +18,10 @@ Integration adds page descriptions, canonical/Open Graph metadata, intrinsic ima
 
 `dist/CNAME` preserves the custom domain, and `.nojekyll` publishes the static files directly. The 404 page provides recovery links in the replacement site's typography and colors.
 
+## Favicon
+
+The TP monogram supplied by Tyler is used across all pages, including redirects and the 404 page. Browser icons are provided as a multi-size ICO and PNGs, with an Apple touch icon. Only the blank outer border was trimmed for small-size legibility; the supplied artwork was not redrawn. Source checksum and export details are in [favicon-source.json](docs/favicon-source.json).
+
 ## Edit and preview
 
 Edit `dist/index.html` for Home and `dist/<page>/index.html` for other real pages. Images and the BARE video are in `dist/images/`. Root-level `.html` files and the five alternate-name folders are redirect stubs, not source pages. Styles are inline in each real page.

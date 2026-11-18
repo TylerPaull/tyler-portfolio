@@ -1,0 +1,22 @@
+{
+  "source": "Minimalist TP Monogram Logo.png",
+  "source_sha256": "8076d14f10be31730642df9c1f51c4474bf4c7b58cf1de9774c1829908e2644f",
+  "source_dimensions": [
+    1254,
+    1254
+  ],
+  "crop_pixels_left_top_right_bottom": [
+    228,
+    226,
+    1023,
+    1021
+  ],
+  "method": "Trim blank outer border, preserve supplied RGB artwork, resize with Lanczos for browser icon formats. No generation or redrawing.",
+  "version": "61a832793a",
+  "files": [
+    "favicon.ico",
+    "favicon-32.png",
+    "favicon-48.png",
+    "apple-touch-icon.png"
+  ]
+}
